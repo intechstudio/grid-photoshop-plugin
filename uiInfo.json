@@ -1,0 +1,982 @@
+[
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 325,
+      "left": 7,
+      "right": 40,
+      "top": 299
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "paintbrushTool",
+    "toolTip": "Brush Tool (B)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 325,
+      "left": 7,
+      "right": 40,
+      "top": 299
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "pencilTool",
+    "toolTip": "Pencil Tool (B)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 325,
+      "left": 7,
+      "right": 40,
+      "top": 299
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "colorReplacementBrushTool",
+    "toolTip": "Color Replacement Tool (B)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 325,
+      "left": 7,
+      "right": 40,
+      "top": 299
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "wetBrushTool",
+    "toolTip": "Mixer Brush Tool (B)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 403,
+      "left": 7,
+      "right": 40,
+      "top": 377
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "eraserTool",
+    "toolTip": "Eraser Tool (E)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 403,
+      "left": 7,
+      "right": 40,
+      "top": 377
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "backgroundEraserTool",
+    "toolTip": "Background Eraser Tool (E)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 351,
+      "left": 7,
+      "right": 40,
+      "top": 325
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "cloneStampTool",
+    "toolTip": "Clone Stamp Tool (S)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 351,
+      "left": 7,
+      "right": 40,
+      "top": 325
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "patternStampTool",
+    "toolTip": "Pattern Stamp Tool (S)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 299,
+      "left": 7,
+      "right": 40,
+      "top": 273
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "magicStampTool",
+    "toolTip": "Healing Brush Tool (J)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 377,
+      "left": 7,
+      "right": 40,
+      "top": 351
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "historyBrushTool",
+    "toolTip": "History Brush Tool (Y)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 377,
+      "left": 7,
+      "right": 40,
+      "top": 351
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "artBrushTool",
+    "toolTip": "Art History Brush Tool (Y)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 455,
+      "left": 7,
+      "right": 40,
+      "top": 429
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "smudgeTool",
+    "toolTip": "Smudge Tool",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 455,
+      "left": 7,
+      "right": 40,
+      "top": 429
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "blurTool",
+    "toolTip": "Blur Tool",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 455,
+      "left": 7,
+      "right": 40,
+      "top": 429
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "sharpenTool",
+    "toolTip": "Sharpen Tool",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 481,
+      "left": 7,
+      "right": 40,
+      "top": 455
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "dodgeTool",
+    "toolTip": "Dodge Tool (O)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 481,
+      "left": 7,
+      "right": 40,
+      "top": 455
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "burnInTool",
+    "toolTip": "Burn Tool (O)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 481,
+      "left": 7,
+      "right": 40,
+      "top": 455
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "saturationTool",
+    "toolTip": "Sponge Tool (O)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 299,
+      "left": 7,
+      "right": 40,
+      "top": 273
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "redEyeTool",
+    "toolTip": "Red Eye Tool (J)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 143,
+      "left": 7,
+      "right": 40,
+      "top": 117
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "marqueeRectTool",
+    "toolTip": "Rectangular Marquee Tool (M)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 143,
+      "left": 7,
+      "right": 40,
+      "top": 117
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "marqueeEllipTool",
+    "toolTip": "Elliptical Marquee Tool (M)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 143,
+      "left": 7,
+      "right": 40,
+      "top": 117
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "marqueeSingleRowTool",
+    "toolTip": "Single Row Marquee Tool",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 143,
+      "left": 7,
+      "right": 40,
+      "top": 117
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "marqueeSingleColumnTool",
+    "toolTip": "Single Column Marquee Tool",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 117,
+      "left": 7,
+      "right": 40,
+      "top": 91
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "moveTool",
+    "toolTip": "Move Tool (V)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 117,
+      "left": 7,
+      "right": 40,
+      "top": 91
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "artboardTool",
+    "toolTip": "Artboard Tool (V)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 169,
+      "left": 7,
+      "right": 40,
+      "top": 143
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "lassoTool",
+    "toolTip": "Lasso Tool (L)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 195,
+      "left": 7,
+      "right": 40,
+      "top": 169
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "magicLassoTool",
+    "toolTip": "Object Selection Tool (W)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 169,
+      "left": 7,
+      "right": 40,
+      "top": 143
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "polySelTool",
+    "toolTip": "Polygonal Lasso Tool (L)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 169,
+      "left": 7,
+      "right": 40,
+      "top": 143
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "magneticLassoTool",
+    "toolTip": "Magnetic Lasso Tool (L)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 195,
+      "left": 7,
+      "right": 40,
+      "top": 169
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "magicWandTool",
+    "toolTip": "Magic Wand Tool (W)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 195,
+      "left": 7,
+      "right": 40,
+      "top": 169
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "quickSelectTool",
+    "toolTip": "Quick Selection Tool (W)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 221,
+      "left": 7,
+      "right": 40,
+      "top": 195
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "cropTool",
+    "toolTip": "Crop Tool (C)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 221,
+      "left": 7,
+      "right": 40,
+      "top": 195
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "perspectiveCropTool",
+    "toolTip": "Perspective Crop Tool (C)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 221,
+      "left": 7,
+      "right": 40,
+      "top": 195
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "sliceTool",
+    "toolTip": "Slice Tool (C)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 221,
+      "left": 7,
+      "right": 40,
+      "top": 195
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "sliceSelectTool",
+    "toolTip": "Slice Select Tool (C)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 403,
+      "left": 7,
+      "right": 40,
+      "top": 377
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "magicEraserTool",
+    "toolTip": "Magic Eraser Tool (E)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 429,
+      "left": 7,
+      "right": 40,
+      "top": 403
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "gradientTool",
+    "toolTip": "Gradient Tool (G)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 429,
+      "left": 7,
+      "right": 40,
+      "top": 403
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "bucketTool",
+    "toolTip": "Paint Bucket Tool (G)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 559,
+      "left": 7,
+      "right": 40,
+      "top": 533
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "pathComponentSelectTool",
+    "toolTip": "Path Selection Tool (A)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 559,
+      "left": 7,
+      "right": 40,
+      "top": 533
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "directSelectTool",
+    "toolTip": "Direct Selection Tool (A)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 507,
+      "left": 7,
+      "right": 40,
+      "top": 481
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "penTool",
+    "toolTip": "Pen Tool (P)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 507,
+      "left": 7,
+      "right": 40,
+      "top": 481
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "freeformPenTool",
+    "toolTip": "Freeform Pen Tool (P)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 507,
+      "left": 7,
+      "right": 40,
+      "top": 481
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "curvaturePenTool",
+    "toolTip": "Curvature Pen Tool (P)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 507,
+      "left": 7,
+      "right": 40,
+      "top": 481
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "addKnotTool",
+    "toolTip": "Add Anchor Point Tool",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 507,
+      "left": 7,
+      "right": 40,
+      "top": 481
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "deleteKnotTool",
+    "toolTip": "Delete Anchor Point Tool",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 507,
+      "left": 7,
+      "right": 40,
+      "top": 481
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "convertKnotTool",
+    "toolTip": "Convert Point Tool",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 533,
+      "left": 7,
+      "right": 40,
+      "top": 507
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "typeCreateOrEditTool",
+    "toolTip": "Horizontal Type Tool (T)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 533,
+      "left": 7,
+      "right": 40,
+      "top": 507
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "typeVerticalCreateOrEditTool",
+    "toolTip": "Vertical Type Tool (T)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 533,
+      "left": 7,
+      "right": 40,
+      "top": 507
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "typeCreateMaskTool",
+    "toolTip": "Horizontal Type Mask Tool (T)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 533,
+      "left": 7,
+      "right": 40,
+      "top": 507
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "typeVerticalCreateMaskTool",
+    "toolTip": "Vertical Type Mask Tool (T)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 585,
+      "left": 7,
+      "right": 40,
+      "top": 559
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "rectangleTool",
+    "toolTip": "Rectangle Tool (U)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 585,
+      "left": 7,
+      "right": 40,
+      "top": 559
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "ellipseTool",
+    "toolTip": "Ellipse Tool (U)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 585,
+      "left": 7,
+      "right": 40,
+      "top": 559
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "triangleTool",
+    "toolTip": "Triangle Tool (U)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 585,
+      "left": 7,
+      "right": 40,
+      "top": 559
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "polygonTool",
+    "toolTip": "Polygon Tool (U)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 585,
+      "left": 7,
+      "right": 40,
+      "top": 559
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "lineTool",
+    "toolTip": "Line Tool (U)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 585,
+      "left": 7,
+      "right": 40,
+      "top": 559
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "customShapeTool",
+    "toolTip": "Custom Shape Tool (U)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 247,
+      "left": 7,
+      "right": 40,
+      "top": 221
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "framedGroupTool",
+    "toolTip": "Frame Tool (K)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 273,
+      "left": 7,
+      "right": 40,
+      "top": 247
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "eyedropperTool",
+    "toolTip": "Eyedropper Tool (I)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 273,
+      "left": 7,
+      "right": 40,
+      "top": 247
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "colorSamplerTool",
+    "toolTip": "Color Sampler Tool (I)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 273,
+      "left": 7,
+      "right": 40,
+      "top": 247
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "rulerTool",
+    "toolTip": "Ruler Tool (I)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 273,
+      "left": 7,
+      "right": 40,
+      "top": 247
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "textAnnotTool",
+    "toolTip": "Note Tool (I)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 611,
+      "left": 7,
+      "right": 40,
+      "top": 585
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "handTool",
+    "toolTip": "Hand Tool (H)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 611,
+      "left": 7,
+      "right": 40,
+      "top": 585
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "rotateTool",
+    "toolTip": "Rotate View Tool (R)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 637,
+      "left": 7,
+      "right": 40,
+      "top": 611
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "zoomTool",
+    "toolTip": "Zoom Tool (Z)",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 299,
+      "left": 7,
+      "right": 40,
+      "top": 273
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "patchSelection",
+    "toolTip": "Patch Tool (J)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 299,
+      "left": 7,
+      "right": 40,
+      "top": 273
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "recomposeSelection",
+    "toolTip": "Content-Aware Move Tool (J)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 299,
+      "left": 7,
+      "right": 40,
+      "top": 273
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "spotHealingBrushTool",
+    "toolTip": "Spot Healing Brush Tool (J)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 663,
+      "left": 7,
+      "right": 40,
+      "top": 637
+    },
+    "inToolBar": true,
+    "selected": true,
+    "toolID": "editToolbar",
+    "toolTip": "Edit Toolbar...",
+    "visible": true
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 273,
+      "left": 7,
+      "right": 40,
+      "top": 247
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "countTool",
+    "toolTip": "Count Tool (I)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 273,
+      "left": 7,
+      "right": 40,
+      "top": 247
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "3DMaterialSelectTool",
+    "toolTip": "Material Eyedropper Tool (I)",
+    "visible": false
+  },
+  {
+    "enabled": true,
+    "globalBounds": {
+      "bottom": 429,
+      "left": 7,
+      "right": 40,
+      "top": 403
+    },
+    "inToolBar": true,
+    "selected": false,
+    "toolID": "3DMaterialDropTool",
+    "toolTip": "Material Drop Tool (G)",
+    "visible": false
+  }
+]

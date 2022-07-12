@@ -1,0 +1,5931 @@
+[
+  {
+    "category": "Help",
+    "name": "Home",
+    "enabled": false,
+    "visible": false,
+    "command": 1990
+  },
+  {
+    "category": "Help",
+    "name": "Photoshop Help",
+    "enabled": true,
+    "visible": true,
+    "command": 5956
+  },
+  {
+    "category": "Help",
+    "name": "Hands-on Tutorials",
+    "enabled": true,
+    "visible": true,
+    "command": 15203
+  },
+  {
+    "category": "Help",
+    "name": "What's New",
+    "enabled": true,
+    "visible": true,
+    "command": 15204
+  },
+  {
+    "category": "Help",
+    "name": "About Photoshop",
+    "enabled": true,
+    "visible": true,
+    "command": 1
+  },
+  {
+    "category": "Help | About Plugins",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -676
+  },
+  {
+    "category": "Help",
+    "name": "System Info",
+    "enabled": false,
+    "visible": true,
+    "command": 15004
+  },
+  {
+    "category": "Help",
+    "name": "GPU Compatibility",
+    "enabled": false,
+    "visible": true,
+    "command": 15009
+  },
+  {
+    "category": "Help",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -690
+  },
+  {
+    "category": "Help",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -691
+  },
+  {
+    "category": "Help",
+    "name": "Updates",
+    "enabled": false,
+    "visible": true,
+    "command": 4002
+  },
+  {
+    "category": "File",
+    "name": "New",
+    "enabled": false,
+    "visible": true,
+    "command": 10
+  },
+  {
+    "category": "File",
+    "name": "Open",
+    "enabled": false,
+    "visible": true,
+    "command": 20
+  },
+  {
+    "category": "File",
+    "name": "Browse in Bridge",
+    "enabled": false,
+    "visible": true,
+    "command": 1520
+  },
+  {
+    "category": "File",
+    "name": "Open As",
+    "enabled": false,
+    "visible": true,
+    "command": 21
+  },
+  {
+    "category": "File",
+    "name": "Open as Smart Object",
+    "enabled": false,
+    "visible": true,
+    "command": 22
+  },
+  {
+    "category": "File | Open Recent",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -764
+  },
+  {
+    "category": "File | Open Recent",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -763
+  },
+  {
+    "category": "File | Open Recent",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -762
+  },
+  {
+    "category": "File | Open Recent",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -761
+  },
+  {
+    "category": "File | Open Recent",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -760
+  },
+  {
+    "category": "File | Open Recent",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -759
+  },
+  {
+    "category": "File | Open Recent",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -758
+  },
+  {
+    "category": "File | Open Recent",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -757
+  },
+  {
+    "category": "File | Open Recent",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -756
+  },
+  {
+    "category": "File | Open Recent",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -755
+  },
+  {
+    "category": "File | Open Recent",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -754
+  },
+  {
+    "category": "File | Open Recent",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -753
+  },
+  {
+    "category": "File | Open Recent",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -752
+  },
+  {
+    "category": "File | Open Recent",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -751
+  },
+  {
+    "category": "File | Open Recent",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -750
+  },
+  {
+    "category": "File | Open Recent",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -749
+  },
+  {
+    "category": "File | Open Recent",
+    "name": "Clear Recent File List",
+    "enabled": false,
+    "visible": true,
+    "command": 2103
+  },
+  {
+    "category": "File",
+    "name": "Close",
+    "enabled": true,
+    "visible": true,
+    "command": 31
+  },
+  {
+    "category": "File",
+    "name": "Close All",
+    "enabled": false,
+    "visible": true,
+    "command": 37
+  },
+  {
+    "category": "File",
+    "name": "Close Others",
+    "enabled": false,
+    "visible": true,
+    "command": 46
+  },
+  {
+    "category": "File",
+    "name": "Close and Go to Bridge",
+    "enabled": true,
+    "visible": true,
+    "command": 1530
+  },
+  {
+    "category": "File",
+    "name": "Save",
+    "enabled": true,
+    "visible": true,
+    "command": 30
+  },
+  {
+    "category": "File",
+    "name": "Save As",
+    "enabled": true,
+    "visible": true,
+    "command": 32
+  },
+  {
+    "category": "File",
+    "name": "Save a Copy",
+    "enabled": true,
+    "visible": true,
+    "command": 33
+  },
+  {
+    "category": "File",
+    "name": "Revert",
+    "enabled": false,
+    "visible": true,
+    "command": 34
+  },
+  {
+    "category": "File | Export",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": 3444
+  },
+  {
+    "category": "File | Export",
+    "name": "Export As",
+    "enabled": true,
+    "visible": true,
+    "command": 3443
+  },
+  {
+    "category": "File | Export",
+    "name": "Learn how to export for NFTs",
+    "enabled": false,
+    "visible": false,
+    "command": 21004
+  },
+  {
+    "category": "File | Export",
+    "name": "Export Preferences",
+    "enabled": false,
+    "visible": true,
+    "command": 2332
+  },
+  {
+    "category": "File | Export",
+    "name": "Save for Web (Legacy)",
+    "enabled": true,
+    "visible": true,
+    "command": 1695
+  },
+  {
+    "category": "File | Export",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -668
+  },
+  {
+    "category": "File | Export",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -669
+  },
+  {
+    "category": "File | Export",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -670
+  },
+  {
+    "category": "File | Export",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -671
+  },
+  {
+    "category": "File | Export",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -672
+  },
+  {
+    "category": "File | Export",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -673
+  },
+  {
+    "category": "File | Export",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -674
+  },
+  {
+    "category": "File | Export",
+    "name": "Data Sets as Files",
+    "enabled": false,
+    "visible": true,
+    "command": 7806
+  },
+  {
+    "category": "File | Export",
+    "name": "Paths to Illustrator",
+    "enabled": true,
+    "visible": true,
+    "command": -497
+  },
+  {
+    "category": "File | Export",
+    "name": "Render Video",
+    "enabled": true,
+    "visible": true,
+    "command": -498
+  },
+  {
+    "category": "File | Generate",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -675
+  },
+  {
+    "category": "File",
+    "name": "Share",
+    "enabled": false,
+    "visible": true,
+    "command": 5958
+  },
+  {
+    "category": "File",
+    "name": "Invite",
+    "enabled": false,
+    "visible": true,
+    "command": 5959
+  },
+  {
+    "category": "File",
+    "name": "Search Adobe Stock",
+    "enabled": false,
+    "visible": true,
+    "command": 15201
+  },
+  {
+    "category": "File",
+    "name": "Place Embedded",
+    "enabled": true,
+    "visible": true,
+    "command": 1032
+  },
+  {
+    "category": "File",
+    "name": "Place Linked",
+    "enabled": true,
+    "visible": true,
+    "command": 3090
+  },
+  {
+    "category": "File",
+    "name": "Package",
+    "enabled": false,
+    "visible": true,
+    "command": 3092
+  },
+  {
+    "category": "File | Automate",
+    "name": "Batch",
+    "enabled": true,
+    "visible": true,
+    "command": 1180
+  },
+  {
+    "category": "File | Automate",
+    "name": "PDF Presentation",
+    "enabled": true,
+    "visible": true,
+    "command": 1696
+  },
+  {
+    "category": "File | Automate",
+    "name": "Create Droplet",
+    "enabled": true,
+    "visible": true,
+    "command": 1169
+  },
+  {
+    "category": "File | Automate",
+    "name": "Crop and Straighten Photos",
+    "enabled": true,
+    "visible": true,
+    "command": -651
+  },
+  {
+    "category": "File | Automate",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -652
+  },
+  {
+    "category": "File | Automate",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -653
+  },
+  {
+    "category": "File | Automate",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -654
+  },
+  {
+    "category": "File | Automate",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -655
+  },
+  {
+    "category": "File | Automate",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -656
+  },
+  {
+    "category": "File | Automate",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -657
+  },
+  {
+    "category": "File | Scripts",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -660
+  },
+  {
+    "category": "File | Scripts",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -661
+  },
+  {
+    "category": "File | Scripts",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -662
+  },
+  {
+    "category": "File | Scripts",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -663
+  },
+  {
+    "category": "File | Scripts",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -664
+  },
+  {
+    "category": "File | Scripts",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -665
+  },
+  {
+    "category": "File | Scripts",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -666
+  },
+  {
+    "category": "File | Scripts",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -667
+  },
+  {
+    "category": "File | Scripts",
+    "name": "Browse",
+    "enabled": true,
+    "visible": true,
+    "command": 1676
+  },
+  {
+    "category": "File | Import",
+    "name": "Variable Data Sets",
+    "enabled": false,
+    "visible": true,
+    "command": 7805
+  },
+  {
+    "category": "File | Import",
+    "name": "Video Frames to Layers",
+    "enabled": true,
+    "visible": true,
+    "command": 6362
+  },
+  {
+    "category": "File | Import",
+    "name": "Notes",
+    "enabled": true,
+    "visible": true,
+    "command": -318
+  },
+  {
+    "category": "File | Import",
+    "name": "WIA Support",
+    "enabled": true,
+    "visible": true,
+    "command": -692
+  },
+  {
+    "category": "File",
+    "name": "File Info",
+    "enabled": true,
+    "visible": true,
+    "command": 1137
+  },
+  {
+    "category": "File",
+    "name": "Version History",
+    "enabled": false,
+    "visible": true,
+    "command": 20006
+  },
+  {
+    "category": "File",
+    "name": "Print",
+    "enabled": false,
+    "visible": true,
+    "command": 2101
+  },
+  {
+    "category": "File",
+    "name": "Print One Copy",
+    "enabled": false,
+    "visible": true,
+    "command": 177
+  },
+  {
+    "category": "File",
+    "name": "Exit",
+    "enabled": false,
+    "visible": true,
+    "command": 36
+  },
+  {
+    "category": "Edit",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": 101
+  },
+  {
+    "category": "Edit",
+    "name": "Redo",
+    "enabled": false,
+    "visible": true,
+    "command": 132
+  },
+  {
+    "category": "Edit",
+    "name": "Toggle Last State",
+    "enabled": true,
+    "visible": true,
+    "command": 133
+  },
+  {
+    "category": "Edit",
+    "name": "Step Forward",
+    "enabled": false,
+    "visible": false,
+    "command": 1962
+  },
+  {
+    "category": "Edit",
+    "name": "Step Backward",
+    "enabled": false,
+    "visible": false,
+    "command": 1961
+  },
+  {
+    "category": "Edit",
+    "name": "Fade",
+    "enabled": false,
+    "visible": true,
+    "command": 1154
+  },
+  {
+    "category": "Edit",
+    "name": "Cut",
+    "enabled": false,
+    "visible": true,
+    "command": 103
+  },
+  {
+    "category": "Edit",
+    "name": "Copy",
+    "enabled": true,
+    "visible": true,
+    "command": 104
+  },
+  {
+    "category": "Edit",
+    "name": "Copy Merged",
+    "enabled": false,
+    "visible": true,
+    "command": 1107
+  },
+  {
+    "category": "Edit",
+    "name": "Paste",
+    "enabled": false,
+    "visible": true,
+    "command": 105
+  },
+  {
+    "category": "Edit | Paste Special",
+    "name": "Paste without Formatting",
+    "enabled": false,
+    "visible": true,
+    "command": 9143
+  },
+  {
+    "category": "Edit | Paste Special",
+    "name": "Paste in Place",
+    "enabled": false,
+    "visible": true,
+    "command": 1297
+  },
+  {
+    "category": "Edit | Paste Special",
+    "name": "Paste Into",
+    "enabled": false,
+    "visible": true,
+    "command": 1040
+  },
+  {
+    "category": "Edit | Paste Special",
+    "name": "Paste Outside",
+    "enabled": false,
+    "visible": true,
+    "command": 5068
+  },
+  {
+    "category": "Edit",
+    "name": "Clear",
+    "enabled": false,
+    "visible": true,
+    "command": 106
+  },
+  {
+    "category": "Edit",
+    "name": "Search",
+    "enabled": true,
+    "visible": true,
+    "command": 5957
+  },
+  {
+    "category": "Edit",
+    "name": "Check Spelling",
+    "enabled": true,
+    "visible": true,
+    "command": 3392
+  },
+  {
+    "category": "Edit",
+    "name": "Find and Replace Text",
+    "enabled": true,
+    "visible": true,
+    "command": 3393
+  },
+  {
+    "category": "Edit",
+    "name": "Fill",
+    "enabled": true,
+    "visible": true,
+    "command": 1042
+  },
+  {
+    "category": "Edit",
+    "name": "Stroke",
+    "enabled": true,
+    "visible": true,
+    "command": 1043
+  },
+  {
+    "category": "Edit",
+    "name": "Content-Aware Fill",
+    "enabled": false,
+    "visible": true,
+    "command": 1510
+  },
+  {
+    "category": "Edit",
+    "name": "Content-Aware Scale",
+    "enabled": true,
+    "visible": true,
+    "command": 2220
+  },
+  {
+    "category": "Edit",
+    "name": "Puppet Warp",
+    "enabled": true,
+    "visible": true,
+    "command": 2221
+  },
+  {
+    "category": "Edit",
+    "name": "Perspective Warp",
+    "enabled": true,
+    "visible": true,
+    "command": 17001
+  },
+  {
+    "category": "Edit",
+    "name": "Free Transform",
+    "enabled": true,
+    "visible": true,
+    "command": 2207
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Again",
+    "enabled": false,
+    "visible": true,
+    "command": 2217
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Scale",
+    "enabled": true,
+    "visible": true,
+    "command": 2201
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Rotate",
+    "enabled": true,
+    "visible": true,
+    "command": 2205
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Skew",
+    "enabled": true,
+    "visible": true,
+    "command": 2202
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Distort",
+    "enabled": true,
+    "visible": true,
+    "command": 2204
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Perspective",
+    "enabled": true,
+    "visible": true,
+    "command": 2203
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Warp",
+    "enabled": true,
+    "visible": true,
+    "command": 2219
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Split Warp Horizontally",
+    "enabled": false,
+    "visible": true,
+    "command": 2250
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Split Warp Vertically",
+    "enabled": false,
+    "visible": true,
+    "command": 2251
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Split Warp Crosswise",
+    "enabled": false,
+    "visible": true,
+    "command": 2252
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Remove Warp Split",
+    "enabled": false,
+    "visible": true,
+    "command": 2253
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Convert warp anchor point",
+    "enabled": false,
+    "visible": true,
+    "command": 2255
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Toggle Guides",
+    "enabled": false,
+    "visible": true,
+    "command": 2254
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Rotate 180°",
+    "enabled": true,
+    "visible": true,
+    "command": 2208
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Rotate 90° Clockwise",
+    "enabled": true,
+    "visible": true,
+    "command": 2209
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Rotate 90° Counter Clockwise",
+    "enabled": true,
+    "visible": true,
+    "command": 2210
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Flip Horizontal",
+    "enabled": true,
+    "visible": true,
+    "command": 2211
+  },
+  {
+    "category": "Edit | Transform",
+    "name": "Flip Vertical",
+    "enabled": true,
+    "visible": true,
+    "command": 2212
+  },
+  {
+    "category": "Edit",
+    "name": "Auto-Align Layers",
+    "enabled": false,
+    "visible": true,
+    "command": 1237
+  },
+  {
+    "category": "Edit",
+    "name": "Auto-Blend Layers",
+    "enabled": false,
+    "visible": true,
+    "command": 1238
+  },
+  {
+    "category": "Edit",
+    "name": "Sky Replacement",
+    "enabled": true,
+    "visible": true,
+    "command": 2260
+  },
+  {
+    "category": "Edit",
+    "name": "Define Brush Preset",
+    "enabled": false,
+    "visible": true,
+    "command": 1029
+  },
+  {
+    "category": "Edit",
+    "name": "Define Pattern",
+    "enabled": true,
+    "visible": true,
+    "command": 1038
+  },
+  {
+    "category": "Edit",
+    "name": "Define Custom Shape",
+    "enabled": false,
+    "visible": true,
+    "command": 5624
+  },
+  {
+    "category": "Edit | Purge",
+    "name": "Undo",
+    "enabled": false,
+    "visible": false,
+    "command": 2911
+  },
+  {
+    "category": "Edit | Purge",
+    "name": "Clipboard",
+    "enabled": false,
+    "visible": true,
+    "command": 2912
+  },
+  {
+    "category": "Edit | Purge",
+    "name": "Histories",
+    "enabled": false,
+    "visible": true,
+    "command": 2361
+  },
+  {
+    "category": "Edit | Purge",
+    "name": "All",
+    "enabled": true,
+    "visible": true,
+    "command": 2915
+  },
+  {
+    "category": "Edit | Purge",
+    "name": "Video Cache",
+    "enabled": false,
+    "visible": true,
+    "command": 2920
+  },
+  {
+    "category": "Edit",
+    "name": "Adobe PDF Presets",
+    "enabled": false,
+    "visible": true,
+    "command": 1215
+  },
+  {
+    "category": "Edit | Presets",
+    "name": "Preset Manager",
+    "enabled": false,
+    "visible": true,
+    "command": 1214
+  },
+  {
+    "category": "Edit | Presets",
+    "name": "Migrate Presets",
+    "enabled": false,
+    "visible": true,
+    "command": 1211
+  },
+  {
+    "category": "Edit | Presets",
+    "name": "Export/Import Presets",
+    "enabled": false,
+    "visible": true,
+    "command": 2449
+  },
+  {
+    "category": "Edit",
+    "name": "Remote Connections",
+    "enabled": false,
+    "visible": true,
+    "command": 1613
+  },
+  {
+    "category": "Edit",
+    "name": "Color Settings",
+    "enabled": true,
+    "visible": true,
+    "command": 2344
+  },
+  {
+    "category": "Edit",
+    "name": "Assign Profile",
+    "enabled": true,
+    "visible": true,
+    "command": 1212
+  },
+  {
+    "category": "Edit",
+    "name": "Convert to Profile",
+    "enabled": true,
+    "visible": true,
+    "command": 1213
+  },
+  {
+    "category": "Edit",
+    "name": "Keyboard Shortcuts",
+    "enabled": false,
+    "visible": true,
+    "command": 5980
+  },
+  {
+    "category": "Edit",
+    "name": "Menus",
+    "enabled": false,
+    "visible": true,
+    "command": 5982
+  },
+  {
+    "category": "Edit",
+    "name": "Toolbar",
+    "enabled": false,
+    "visible": true,
+    "command": 5983
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "General",
+    "enabled": false,
+    "visible": true,
+    "command": 2311
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "Interface",
+    "enabled": false,
+    "visible": true,
+    "command": 2323
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "Workspace",
+    "enabled": false,
+    "visible": true,
+    "command": 2331
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "Tools",
+    "enabled": false,
+    "visible": true,
+    "command": 2330
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "History Log",
+    "enabled": false,
+    "visible": true,
+    "command": 2329
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "File Handling",
+    "enabled": false,
+    "visible": true,
+    "command": 2317
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "Export",
+    "enabled": false,
+    "visible": true,
+    "command": 2332
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "Performance",
+    "enabled": false,
+    "visible": true,
+    "command": 2304
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "Scratch Disks",
+    "enabled": false,
+    "visible": true,
+    "command": 2328
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "Cursors",
+    "enabled": false,
+    "visible": true,
+    "command": 2312
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "Transparency  Gamut",
+    "enabled": false,
+    "visible": true,
+    "command": 2313
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "Units  Rulers",
+    "enabled": false,
+    "visible": true,
+    "command": 2314
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "Guides, Grid  Slices",
+    "enabled": false,
+    "visible": true,
+    "command": 2315
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "Plugins",
+    "enabled": false,
+    "visible": true,
+    "command": 2316
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "Type",
+    "enabled": false,
+    "visible": true,
+    "command": 2322
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "3D",
+    "enabled": false,
+    "visible": true,
+    "command": 2325
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "Enhanced Controls",
+    "enabled": false,
+    "visible": true,
+    "command": 2333
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "Technology Previews",
+    "enabled": false,
+    "visible": true,
+    "command": 2327
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "Product Improvement",
+    "enabled": false,
+    "visible": true,
+    "command": 2334
+  },
+  {
+    "category": "Edit | Preferences",
+    "name": "Camera Raw",
+    "enabled": false,
+    "visible": true,
+    "command": 2324
+  },
+  {
+    "category": "Image | Mode",
+    "name": "Bitmap",
+    "enabled": false,
+    "visible": true,
+    "command": 1006
+  },
+  {
+    "category": "Image | Mode",
+    "name": "Grayscale",
+    "enabled": true,
+    "visible": true,
+    "command": 1007
+  },
+  {
+    "category": "Image | Mode",
+    "name": "Duotone",
+    "enabled": false,
+    "visible": true,
+    "command": 1008
+  },
+  {
+    "category": "Image | Mode",
+    "name": "Indexed Color",
+    "enabled": true,
+    "visible": true,
+    "command": 1009
+  },
+  {
+    "category": "Image | Mode",
+    "name": "RGB Color",
+    "enabled": true,
+    "visible": true,
+    "command": 1010
+  },
+  {
+    "category": "Image | Mode",
+    "name": "CMYK Color",
+    "enabled": true,
+    "visible": true,
+    "command": 1011
+  },
+  {
+    "category": "Image | Mode",
+    "name": "Lab Color",
+    "enabled": true,
+    "visible": true,
+    "command": 1052
+  },
+  {
+    "category": "Image | Mode",
+    "name": "Multichannel",
+    "enabled": true,
+    "visible": true,
+    "command": 1014
+  },
+  {
+    "category": "Image | Mode",
+    "name": "8 Bits/Channel",
+    "enabled": true,
+    "visible": true,
+    "command": 1161
+  },
+  {
+    "category": "Image | Mode",
+    "name": "16 Bits/Channel",
+    "enabled": true,
+    "visible": true,
+    "command": 1162
+  },
+  {
+    "category": "Image | Mode",
+    "name": "32 Bits/Channel",
+    "enabled": true,
+    "visible": true,
+    "command": 1206
+  },
+  {
+    "category": "Image | Mode",
+    "name": "Color Table",
+    "enabled": false,
+    "visible": true,
+    "command": 1045
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Brightness/Contrast",
+    "enabled": true,
+    "visible": true,
+    "command": 1803
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Levels",
+    "enabled": true,
+    "visible": true,
+    "command": 1801
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Curves",
+    "enabled": true,
+    "visible": true,
+    "command": 1802
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Exposure",
+    "enabled": true,
+    "visible": true,
+    "command": 3067
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Vibrance",
+    "enabled": true,
+    "visible": true,
+    "command": 1827
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Hue/Saturation",
+    "enabled": true,
+    "visible": true,
+    "command": 1805
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Color Balance",
+    "enabled": true,
+    "visible": true,
+    "command": 1804
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Black  White",
+    "enabled": true,
+    "visible": true,
+    "command": 1824
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Photo Filter",
+    "enabled": true,
+    "visible": true,
+    "command": 3063
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Channel Mixer",
+    "enabled": true,
+    "visible": true,
+    "command": 3056
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Color Lookup",
+    "enabled": true,
+    "visible": true,
+    "command": 3066
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Invert",
+    "enabled": true,
+    "visible": true,
+    "command": 1701
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Posterize",
+    "enabled": true,
+    "visible": true,
+    "command": 1704
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Threshold",
+    "enabled": true,
+    "visible": true,
+    "command": 1703
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Gradient Map",
+    "enabled": true,
+    "visible": true,
+    "command": 3062
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Selective Color",
+    "enabled": true,
+    "visible": true,
+    "command": 1807
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Shadows/Highlights",
+    "enabled": true,
+    "visible": true,
+    "command": 3065
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "HDR Toning",
+    "enabled": true,
+    "visible": true,
+    "command": -336
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Desaturate",
+    "enabled": true,
+    "visible": true,
+    "command": 1809
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Match Color",
+    "enabled": true,
+    "visible": true,
+    "command": 1822
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Replace Color",
+    "enabled": true,
+    "visible": true,
+    "command": 1806
+  },
+  {
+    "category": "Image | Adjustments",
+    "name": "Equalize",
+    "enabled": true,
+    "visible": true,
+    "command": 1702
+  },
+  {
+    "category": "Image",
+    "name": "Auto Tone",
+    "enabled": true,
+    "visible": true,
+    "command": 1808
+  },
+  {
+    "category": "Image",
+    "name": "Auto Contrast",
+    "enabled": true,
+    "visible": true,
+    "command": 1810
+  },
+  {
+    "category": "Image",
+    "name": "Auto Color",
+    "enabled": true,
+    "visible": true,
+    "command": 1817
+  },
+  {
+    "category": "Image",
+    "name": "Image Size",
+    "enabled": true,
+    "visible": true,
+    "command": 1030
+  },
+  {
+    "category": "Image",
+    "name": "Canvas Size",
+    "enabled": true,
+    "visible": true,
+    "command": 1031
+  },
+  {
+    "category": "Image | Image Rotation",
+    "name": "180°",
+    "enabled": true,
+    "visible": true,
+    "command": 2993
+  },
+  {
+    "category": "Image | Image Rotation",
+    "name": "90° Clockwise",
+    "enabled": true,
+    "visible": true,
+    "command": 2991
+  },
+  {
+    "category": "Image | Image Rotation",
+    "name": "90° Counter Clockwise",
+    "enabled": true,
+    "visible": true,
+    "command": 2992
+  },
+  {
+    "category": "Image | Image Rotation",
+    "name": "Arbitrary",
+    "enabled": true,
+    "visible": true,
+    "command": 2994
+  },
+  {
+    "category": "Image | Image Rotation",
+    "name": "Flip Canvas Horizontal",
+    "enabled": true,
+    "visible": true,
+    "command": 2996
+  },
+  {
+    "category": "Image | Image Rotation",
+    "name": "Flip Canvas Vertical",
+    "enabled": true,
+    "visible": true,
+    "command": 2997
+  },
+  {
+    "category": "Image",
+    "name": "Crop",
+    "enabled": false,
+    "visible": true,
+    "command": 1044
+  },
+  {
+    "category": "Image",
+    "name": "Trim",
+    "enabled": true,
+    "visible": true,
+    "command": 1080
+  },
+  {
+    "category": "Image",
+    "name": "Reveal All",
+    "enabled": true,
+    "visible": true,
+    "command": 1081
+  },
+  {
+    "category": "Image",
+    "name": "Duplicate",
+    "enabled": true,
+    "visible": true,
+    "command": 1134
+  },
+  {
+    "category": "Image",
+    "name": "Apply Image",
+    "enabled": true,
+    "visible": true,
+    "command": 1153
+  },
+  {
+    "category": "Image",
+    "name": "Calculations",
+    "enabled": true,
+    "visible": true,
+    "command": 1900
+  },
+  {
+    "category": "Image | Variables",
+    "name": "Define",
+    "enabled": true,
+    "visible": true,
+    "command": 7802
+  },
+  {
+    "category": "Image | Variables",
+    "name": "Data Sets",
+    "enabled": false,
+    "visible": true,
+    "command": 7803
+  },
+  {
+    "category": "Image",
+    "name": "Apply Data Set",
+    "enabled": false,
+    "visible": true,
+    "command": 7800
+  },
+  {
+    "category": "Image",
+    "name": "Trap",
+    "enabled": false,
+    "visible": true,
+    "command": 1093
+  },
+  {
+    "category": "Image | Analysis | Set Measurement Scale",
+    "name": "Default",
+    "enabled": true,
+    "visible": true,
+    "command": 2841
+  },
+  {
+    "category": "Image | Analysis | Set Measurement Scale",
+    "name": "Custom",
+    "enabled": true,
+    "visible": true,
+    "command": 2842
+  },
+  {
+    "category": "Image | Analysis | Select Data Points",
+    "name": "Custom",
+    "enabled": true,
+    "visible": true,
+    "command": 2851
+  },
+  {
+    "category": "Image | Analysis",
+    "name": "Record Measurements",
+    "enabled": false,
+    "visible": true,
+    "command": 2860
+  },
+  {
+    "category": "Image | Analysis",
+    "name": "Ruler Tool",
+    "enabled": true,
+    "visible": true,
+    "command": 2820
+  },
+  {
+    "category": "Image | Analysis",
+    "name": "Count Tool",
+    "enabled": true,
+    "visible": true,
+    "command": 7900
+  },
+  {
+    "category": "Image | Analysis",
+    "name": "Place Scale Marker",
+    "enabled": true,
+    "visible": true,
+    "command": 2830
+  },
+  {
+    "category": "Layer | New",
+    "name": "Layer",
+    "enabled": true,
+    "visible": true,
+    "command": 1099
+  },
+  {
+    "category": "Layer | New",
+    "name": "Background from Layer",
+    "enabled": true,
+    "visible": true,
+    "command": 1942
+  },
+  {
+    "category": "Layer | New",
+    "name": "Group",
+    "enabled": true,
+    "visible": true,
+    "command": 2976
+  },
+  {
+    "category": "Layer | New",
+    "name": "Group from Layers",
+    "enabled": true,
+    "visible": true,
+    "command": 2956
+  },
+  {
+    "category": "Layer | New",
+    "name": "Artboard",
+    "enabled": true,
+    "visible": true,
+    "command": 9220
+  },
+  {
+    "category": "Layer | New",
+    "name": "Artboard from Group",
+    "enabled": false,
+    "visible": true,
+    "command": 9221
+  },
+  {
+    "category": "Layer | New",
+    "name": "Artboard from Layers",
+    "enabled": true,
+    "visible": true,
+    "command": 9222
+  },
+  {
+    "category": "Layer | New",
+    "name": "Frame from Layers",
+    "enabled": true,
+    "visible": true,
+    "command": 9252
+  },
+  {
+    "category": "Layer | New",
+    "name": "Convert to Frame",
+    "enabled": false,
+    "visible": true,
+    "command": 9255
+  },
+  {
+    "category": "Layer | New",
+    "name": "Layer Via Copy",
+    "enabled": true,
+    "visible": true,
+    "command": 2970
+  },
+  {
+    "category": "Layer | New",
+    "name": "Layer Via Cut",
+    "enabled": false,
+    "visible": true,
+    "command": 2971
+  },
+  {
+    "category": "Layer",
+    "name": "Copy CSS",
+    "enabled": true,
+    "visible": true,
+    "command": 3439
+  },
+  {
+    "category": "Layer",
+    "name": "Copy SVG",
+    "enabled": true,
+    "visible": true,
+    "command": 3438
+  },
+  {
+    "category": "Layer",
+    "name": "Duplicate Layer",
+    "enabled": true,
+    "visible": true,
+    "command": 1135
+  },
+  {
+    "category": "Layer | Delete",
+    "name": "Layer",
+    "enabled": false,
+    "visible": true,
+    "command": 1100
+  },
+  {
+    "category": "Layer | Delete",
+    "name": "Hidden Layers",
+    "enabled": false,
+    "visible": true,
+    "command": 2951
+  },
+  {
+    "category": "Layer",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": 3446
+  },
+  {
+    "category": "Layer",
+    "name": "Export As",
+    "enabled": true,
+    "visible": true,
+    "command": 3447
+  },
+  {
+    "category": "Layer",
+    "name": "Rename Layer",
+    "enabled": true,
+    "visible": true,
+    "command": 2983
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Blending Options",
+    "enabled": true,
+    "visible": true,
+    "command": 1331
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Bevel  Emboss",
+    "enabled": true,
+    "visible": true,
+    "command": 1305
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Stroke",
+    "enabled": true,
+    "visible": true,
+    "command": 1313
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Inner Shadow",
+    "enabled": true,
+    "visible": true,
+    "command": 1302
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Inner Glow",
+    "enabled": true,
+    "visible": true,
+    "command": 1304
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Satin",
+    "enabled": true,
+    "visible": true,
+    "command": 1312
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Color Overlay",
+    "enabled": true,
+    "visible": true,
+    "command": 1335
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Gradient Overlay",
+    "enabled": true,
+    "visible": true,
+    "command": 1336
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Pattern Overlay",
+    "enabled": true,
+    "visible": true,
+    "command": 1337
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Outer Glow",
+    "enabled": true,
+    "visible": true,
+    "command": 1303
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Drop Shadow",
+    "enabled": true,
+    "visible": true,
+    "command": 1301
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Copy Layer Style",
+    "enabled": false,
+    "visible": true,
+    "command": 1314
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Paste Layer Style",
+    "enabled": false,
+    "visible": true,
+    "command": 1315
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Clear Layer Style",
+    "enabled": false,
+    "visible": true,
+    "command": 1339
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Global Light",
+    "enabled": true,
+    "visible": true,
+    "command": 1307
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Create Layer",
+    "enabled": false,
+    "visible": true,
+    "command": 1308
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Hide All Effects",
+    "enabled": true,
+    "visible": true,
+    "command": 1306
+  },
+  {
+    "category": "Layer | Layer Style",
+    "name": "Scale Effects",
+    "enabled": false,
+    "visible": true,
+    "command": 1327
+  },
+  {
+    "category": "Layer | Smart Filter",
+    "name": "Disable Smart Filters",
+    "enabled": false,
+    "visible": true,
+    "command": 2769
+  },
+  {
+    "category": "Layer | Smart Filter",
+    "name": "Delete Filter Mask",
+    "enabled": false,
+    "visible": true,
+    "command": 5226
+  },
+  {
+    "category": "Layer | Smart Filter",
+    "name": "Disable Filter Mask",
+    "enabled": false,
+    "visible": true,
+    "command": 3076
+  },
+  {
+    "category": "Layer | Smart Filter",
+    "name": "Clear Smart Filters",
+    "enabled": false,
+    "visible": true,
+    "command": 2770
+  },
+  {
+    "category": "Layer | New Fill Layer",
+    "name": "Solid Color",
+    "enabled": true,
+    "visible": true,
+    "command": 6300
+  },
+  {
+    "category": "Layer | New Fill Layer",
+    "name": "Gradient",
+    "enabled": true,
+    "visible": true,
+    "command": 6301
+  },
+  {
+    "category": "Layer | New Fill Layer",
+    "name": "Pattern",
+    "enabled": true,
+    "visible": true,
+    "command": 6302
+  },
+  {
+    "category": "Layer | New Adjustment Layer",
+    "name": "Brightness/Contrast",
+    "enabled": true,
+    "visible": true,
+    "command": 6306
+  },
+  {
+    "category": "Layer | New Adjustment Layer",
+    "name": "Levels",
+    "enabled": true,
+    "visible": true,
+    "command": 6303
+  },
+  {
+    "category": "Layer | New Adjustment Layer",
+    "name": "Curves",
+    "enabled": true,
+    "visible": true,
+    "command": 6304
+  },
+  {
+    "category": "Layer | New Adjustment Layer",
+    "name": "Exposure",
+    "enabled": true,
+    "visible": true,
+    "command": 3083
+  },
+  {
+    "category": "Layer | New Adjustment Layer",
+    "name": "Vibrance",
+    "enabled": true,
+    "visible": true,
+    "command": 3085
+  },
+  {
+    "category": "Layer | New Adjustment Layer",
+    "name": "Hue/Saturation",
+    "enabled": true,
+    "visible": true,
+    "command": 6308
+  },
+  {
+    "category": "Layer | New Adjustment Layer",
+    "name": "Color Balance",
+    "enabled": true,
+    "visible": true,
+    "command": 6305
+  },
+  {
+    "category": "Layer | New Adjustment Layer",
+    "name": "Black  White",
+    "enabled": true,
+    "visible": true,
+    "command": 6348
+  },
+  {
+    "category": "Layer | New Adjustment Layer",
+    "name": "Photo Filter",
+    "enabled": true,
+    "visible": true,
+    "command": 6312
+  },
+  {
+    "category": "Layer | New Adjustment Layer",
+    "name": "Channel Mixer",
+    "enabled": true,
+    "visible": true,
+    "command": 6310
+  },
+  {
+    "category": "Layer | New Adjustment Layer",
+    "name": "Color Lookup",
+    "enabled": true,
+    "visible": true,
+    "command": 6337
+  },
+  {
+    "category": "Layer | New Adjustment Layer",
+    "name": "Invert",
+    "enabled": true,
+    "visible": true,
+    "command": 6313
+  },
+  {
+    "category": "Layer | New Adjustment Layer",
+    "name": "Posterize",
+    "enabled": true,
+    "visible": true,
+    "command": 6315
+  },
+  {
+    "category": "Layer | New Adjustment Layer",
+    "name": "Threshold",
+    "enabled": true,
+    "visible": true,
+    "command": 6314
+  },
+  {
+    "category": "Layer | New Adjustment Layer",
+    "name": "Gradient Map",
+    "enabled": true,
+    "visible": true,
+    "command": 6311
+  },
+  {
+    "category": "Layer | New Adjustment Layer",
+    "name": "Selective Color",
+    "enabled": true,
+    "visible": true,
+    "command": 6309
+  },
+  {
+    "category": "Layer",
+    "name": "Layer Content Options",
+    "enabled": false,
+    "visible": true,
+    "command": 1103
+  },
+  {
+    "category": "Layer | Layer Mask",
+    "name": "Reveal All",
+    "enabled": true,
+    "visible": true,
+    "command": 1157
+  },
+  {
+    "category": "Layer | Layer Mask",
+    "name": "Hide All",
+    "enabled": true,
+    "visible": true,
+    "command": 1156
+  },
+  {
+    "category": "Layer | Layer Mask",
+    "name": "Reveal Selection",
+    "enabled": false,
+    "visible": true,
+    "command": 1158
+  },
+  {
+    "category": "Layer | Layer Mask",
+    "name": "Hide Selection",
+    "enabled": false,
+    "visible": true,
+    "command": 1168
+  },
+  {
+    "category": "Layer | Layer Mask",
+    "name": "From Transparency",
+    "enabled": true,
+    "visible": true,
+    "command": 1292
+  },
+  {
+    "category": "Layer | Layer Mask",
+    "name": "Delete",
+    "enabled": false,
+    "visible": true,
+    "command": 5059
+  },
+  {
+    "category": "Layer | Layer Mask",
+    "name": "Apply",
+    "enabled": false,
+    "visible": true,
+    "command": 5095
+  },
+  {
+    "category": "Layer | Layer Mask",
+    "name": "Enable",
+    "enabled": false,
+    "visible": true,
+    "command": 1159
+  },
+  {
+    "category": "Layer | Layer Mask",
+    "name": "Link",
+    "enabled": false,
+    "visible": true,
+    "command": 5085
+  },
+  {
+    "category": "Layer | Vector Mask",
+    "name": "Reveal All",
+    "enabled": true,
+    "visible": true,
+    "command": 1954
+  },
+  {
+    "category": "Layer | Vector Mask",
+    "name": "Hide All",
+    "enabled": true,
+    "visible": true,
+    "command": 1953
+  },
+  {
+    "category": "Layer | Vector Mask",
+    "name": "Current Path",
+    "enabled": false,
+    "visible": true,
+    "command": 1955
+  },
+  {
+    "category": "Layer | Vector Mask",
+    "name": "Delete",
+    "enabled": false,
+    "visible": true,
+    "command": 1956
+  },
+  {
+    "category": "Layer | Vector Mask",
+    "name": "Enable",
+    "enabled": false,
+    "visible": true,
+    "command": 1959
+  },
+  {
+    "category": "Layer | Vector Mask",
+    "name": "Link",
+    "enabled": false,
+    "visible": true,
+    "command": 2109
+  },
+  {
+    "category": "Layer",
+    "name": "Create Clipping Mask",
+    "enabled": false,
+    "visible": true,
+    "command": 2972
+  },
+  {
+    "category": "Layer",
+    "name": "Mask All Objects",
+    "enabled": true,
+    "visible": true,
+    "command": 22100
+  },
+  {
+    "category": "Layer | Smart Objects",
+    "name": "Convert to Smart Object",
+    "enabled": true,
+    "visible": true,
+    "command": 2980
+  },
+  {
+    "category": "Layer | Smart Objects",
+    "name": "New Smart Object via Copy",
+    "enabled": false,
+    "visible": true,
+    "command": 2981
+  },
+  {
+    "category": "Layer | Smart Objects",
+    "name": "Reveal in Explorer",
+    "enabled": false,
+    "visible": true,
+    "command": 3091
+  },
+  {
+    "category": "Layer | Smart Objects",
+    "name": "Update Modified Content",
+    "enabled": false,
+    "visible": true,
+    "command": 6342
+  },
+  {
+    "category": "Layer | Smart Objects",
+    "name": "Update All Modified Content",
+    "enabled": true,
+    "visible": true,
+    "command": 6343
+  },
+  {
+    "category": "Layer | Smart Objects",
+    "name": "Edit Contents",
+    "enabled": false,
+    "visible": true,
+    "command": 6332
+  },
+  {
+    "category": "Layer | Smart Objects",
+    "name": "Reset Transform",
+    "enabled": false,
+    "visible": true,
+    "command": 6347
+  },
+  {
+    "category": "Layer | Smart Objects",
+    "name": "Relink to File",
+    "enabled": false,
+    "visible": true,
+    "command": 6340
+  },
+  {
+    "category": "Layer | Smart Objects",
+    "name": "Relink to Library Graphic",
+    "enabled": false,
+    "visible": true,
+    "command": 6341
+  },
+  {
+    "category": "Layer | Smart Objects",
+    "name": "Replace Contents",
+    "enabled": false,
+    "visible": true,
+    "command": 6333
+  },
+  {
+    "category": "Layer | Smart Objects",
+    "name": "Export Contents",
+    "enabled": false,
+    "visible": true,
+    "command": 6334
+  },
+  {
+    "category": "Layer | Smart Objects",
+    "name": "Embed Linked",
+    "enabled": false,
+    "visible": true,
+    "command": 6345
+  },
+  {
+    "category": "Layer | Smart Objects",
+    "name": "Embed All Linked",
+    "enabled": true,
+    "visible": true,
+    "command": 6346
+  },
+  {
+    "category": "Layer | Smart Objects",
+    "name": "Convert to Linked",
+    "enabled": true,
+    "visible": true,
+    "command": 6339
+  },
+  {
+    "category": "Layer | Smart Objects",
+    "name": "Convert to Layers",
+    "enabled": false,
+    "visible": true,
+    "command": 21000
+  },
+  {
+    "category": "Layer | Smart Objects | Stack Mode",
+    "name": "None",
+    "enabled": false,
+    "visible": true,
+    "command": 6432
+  },
+  {
+    "category": "Layer | Smart Objects | Stack Mode",
+    "name": "Entropy",
+    "enabled": false,
+    "visible": true,
+    "command": -319
+  },
+  {
+    "category": "Layer | Smart Objects | Stack Mode",
+    "name": "Kurtosis",
+    "enabled": false,
+    "visible": true,
+    "command": -320
+  },
+  {
+    "category": "Layer | Smart Objects | Stack Mode",
+    "name": "Maximum",
+    "enabled": false,
+    "visible": true,
+    "command": -321
+  },
+  {
+    "category": "Layer | Smart Objects | Stack Mode",
+    "name": "Mean",
+    "enabled": false,
+    "visible": true,
+    "command": -322
+  },
+  {
+    "category": "Layer | Smart Objects | Stack Mode",
+    "name": "Median",
+    "enabled": false,
+    "visible": true,
+    "command": -323
+  },
+  {
+    "category": "Layer | Smart Objects | Stack Mode",
+    "name": "Minimum",
+    "enabled": false,
+    "visible": true,
+    "command": -324
+  },
+  {
+    "category": "Layer | Smart Objects | Stack Mode",
+    "name": "Range",
+    "enabled": false,
+    "visible": true,
+    "command": -325
+  },
+  {
+    "category": "Layer | Smart Objects | Stack Mode",
+    "name": "Skewness",
+    "enabled": false,
+    "visible": true,
+    "command": -326
+  },
+  {
+    "category": "Layer | Smart Objects | Stack Mode",
+    "name": "Standard Deviation",
+    "enabled": false,
+    "visible": true,
+    "command": -327
+  },
+  {
+    "category": "Layer | Smart Objects | Stack Mode",
+    "name": "Summation",
+    "enabled": false,
+    "visible": true,
+    "command": -328
+  },
+  {
+    "category": "Layer | Smart Objects | Stack Mode",
+    "name": "Variance",
+    "enabled": false,
+    "visible": true,
+    "command": -329
+  },
+  {
+    "category": "Layer | Smart Objects",
+    "name": "Rasterize",
+    "enabled": false,
+    "visible": true,
+    "command": 3549
+  },
+  {
+    "category": "Layer | Video Layers",
+    "name": "New Video Layer from File",
+    "enabled": true,
+    "visible": true,
+    "command": 6351
+  },
+  {
+    "category": "Layer | Video Layers",
+    "name": "New Blank Video Layer",
+    "enabled": true,
+    "visible": true,
+    "command": 6352
+  },
+  {
+    "category": "Layer | Video Layers",
+    "name": "Insert Blank Frame",
+    "enabled": false,
+    "visible": true,
+    "command": 6353
+  },
+  {
+    "category": "Layer | Video Layers",
+    "name": "Duplicate Frame",
+    "enabled": false,
+    "visible": true,
+    "command": 6354
+  },
+  {
+    "category": "Layer | Video Layers",
+    "name": "Delete Frame",
+    "enabled": false,
+    "visible": true,
+    "command": 6355
+  },
+  {
+    "category": "Layer | Video Layers",
+    "name": "Replace Footage",
+    "enabled": false,
+    "visible": true,
+    "command": 6357
+  },
+  {
+    "category": "Layer | Video Layers",
+    "name": "Interpret Footage",
+    "enabled": false,
+    "visible": true,
+    "command": 6356
+  },
+  {
+    "category": "Layer | Video Layers",
+    "name": "Show Altered Video",
+    "enabled": false,
+    "visible": true,
+    "command": 6358
+  },
+  {
+    "category": "Layer | Video Layers",
+    "name": "Restore Frame",
+    "enabled": false,
+    "visible": true,
+    "command": 6360
+  },
+  {
+    "category": "Layer | Video Layers",
+    "name": "Restore All Frames",
+    "enabled": false,
+    "visible": true,
+    "command": 6361
+  },
+  {
+    "category": "Layer | Video Layers",
+    "name": "Reload Frame",
+    "enabled": false,
+    "visible": true,
+    "command": 6363
+  },
+  {
+    "category": "Layer | Video Layers",
+    "name": "Rasterize",
+    "enabled": false,
+    "visible": true,
+    "command": 3555
+  },
+  {
+    "category": "Layer | Rasterize",
+    "name": "Type",
+    "enabled": false,
+    "visible": true,
+    "command": 3542
+  },
+  {
+    "category": "Layer | Rasterize",
+    "name": "Shape",
+    "enabled": false,
+    "visible": true,
+    "command": 3541
+  },
+  {
+    "category": "Layer | Rasterize",
+    "name": "Fill Content",
+    "enabled": false,
+    "visible": true,
+    "command": 3544
+  },
+  {
+    "category": "Layer | Rasterize",
+    "name": "Vector Mask",
+    "enabled": false,
+    "visible": true,
+    "command": 1957
+  },
+  {
+    "category": "Layer | Rasterize",
+    "name": "Smart Object",
+    "enabled": false,
+    "visible": true,
+    "command": 3549
+  },
+  {
+    "category": "Layer | Rasterize",
+    "name": "Video",
+    "enabled": false,
+    "visible": true,
+    "command": 3551
+  },
+  {
+    "category": "Layer | Rasterize",
+    "name": "3D",
+    "enabled": false,
+    "visible": true,
+    "command": 3553
+  },
+  {
+    "category": "Layer | Rasterize",
+    "name": "Layer Style",
+    "enabled": false,
+    "visible": true,
+    "command": 3557
+  },
+  {
+    "category": "Layer | Rasterize",
+    "name": "Layer",
+    "enabled": false,
+    "visible": true,
+    "command": 3547
+  },
+  {
+    "category": "Layer | Rasterize",
+    "name": "All Layers",
+    "enabled": false,
+    "visible": true,
+    "command": 3545
+  },
+  {
+    "category": "Layer",
+    "name": "New Layer Based Slice",
+    "enabled": true,
+    "visible": true,
+    "command": 5217
+  },
+  {
+    "category": "Layer",
+    "name": "Group Layers",
+    "enabled": true,
+    "visible": true,
+    "command": 2958
+  },
+  {
+    "category": "Layer",
+    "name": "Ungroup Layers",
+    "enabled": false,
+    "visible": true,
+    "command": 2959
+  },
+  {
+    "category": "Layer",
+    "name": "Hide Layers",
+    "enabled": true,
+    "visible": true,
+    "command": 1114
+  },
+  {
+    "category": "Layer | Arrange",
+    "name": "Bring to Front",
+    "enabled": false,
+    "visible": true,
+    "command": 2711
+  },
+  {
+    "category": "Layer | Arrange",
+    "name": "Bring Forward",
+    "enabled": false,
+    "visible": true,
+    "command": 2712
+  },
+  {
+    "category": "Layer | Arrange",
+    "name": "Send Backward",
+    "enabled": false,
+    "visible": true,
+    "command": 2713
+  },
+  {
+    "category": "Layer | Arrange",
+    "name": "Send to Back",
+    "enabled": false,
+    "visible": true,
+    "command": 2714
+  },
+  {
+    "category": "Layer | Arrange",
+    "name": "Reverse",
+    "enabled": false,
+    "visible": true,
+    "command": 2715
+  },
+  {
+    "category": "Layer | Combine Shapes",
+    "name": "Unite Shapes",
+    "enabled": false,
+    "visible": true,
+    "command": 3409
+  },
+  {
+    "category": "Layer | Combine Shapes",
+    "name": "Subtract Front Shape",
+    "enabled": false,
+    "visible": true,
+    "command": 3410
+  },
+  {
+    "category": "Layer | Combine Shapes",
+    "name": "Unite Shapes at Overlap",
+    "enabled": false,
+    "visible": true,
+    "command": 3411
+  },
+  {
+    "category": "Layer | Combine Shapes",
+    "name": "Subtract Shapes at Overlap",
+    "enabled": false,
+    "visible": true,
+    "command": 3412
+  },
+  {
+    "category": "Layer | Align",
+    "name": "Top Edges",
+    "enabled": false,
+    "visible": true,
+    "command": 1231
+  },
+  {
+    "category": "Layer | Align",
+    "name": "Vertical Centers",
+    "enabled": false,
+    "visible": true,
+    "command": 1233
+  },
+  {
+    "category": "Layer | Align",
+    "name": "Bottom Edges",
+    "enabled": false,
+    "visible": true,
+    "command": 1232
+  },
+  {
+    "category": "Layer | Align",
+    "name": "Left Edges",
+    "enabled": false,
+    "visible": true,
+    "command": 1234
+  },
+  {
+    "category": "Layer | Align",
+    "name": "Horizontal Centers",
+    "enabled": false,
+    "visible": true,
+    "command": 1236
+  },
+  {
+    "category": "Layer | Align",
+    "name": "Right Edges",
+    "enabled": false,
+    "visible": true,
+    "command": 1235
+  },
+  {
+    "category": "Layer | Distribute",
+    "name": "Top Edges",
+    "enabled": false,
+    "visible": true,
+    "command": 1241
+  },
+  {
+    "category": "Layer | Distribute",
+    "name": "Vertical Centers",
+    "enabled": false,
+    "visible": true,
+    "command": 1243
+  },
+  {
+    "category": "Layer | Distribute",
+    "name": "Bottom Edges",
+    "enabled": false,
+    "visible": true,
+    "command": 1242
+  },
+  {
+    "category": "Layer | Distribute",
+    "name": "Left Edges",
+    "enabled": false,
+    "visible": true,
+    "command": 1245
+  },
+  {
+    "category": "Layer | Distribute",
+    "name": "Horizontal Centers",
+    "enabled": false,
+    "visible": true,
+    "command": 1247
+  },
+  {
+    "category": "Layer | Distribute",
+    "name": "Right Edges",
+    "enabled": false,
+    "visible": true,
+    "command": 1246
+  },
+  {
+    "category": "Layer | Distribute",
+    "name": "Horizontally",
+    "enabled": false,
+    "visible": true,
+    "command": 1249
+  },
+  {
+    "category": "Layer | Distribute",
+    "name": "Vertically",
+    "enabled": false,
+    "visible": true,
+    "command": 1239
+  },
+  {
+    "category": "Layer",
+    "name": "Lock Layers",
+    "enabled": true,
+    "visible": true,
+    "command": 2957
+  },
+  {
+    "category": "Layer",
+    "name": "Link Layers",
+    "enabled": false,
+    "visible": true,
+    "command": 2961
+  },
+  {
+    "category": "Layer",
+    "name": "Select Linked Layers",
+    "enabled": false,
+    "visible": true,
+    "command": 2960
+  },
+  {
+    "category": "Layer",
+    "name": "Merge Layers",
+    "enabled": false,
+    "visible": true,
+    "command": 1166
+  },
+  {
+    "category": "Layer",
+    "name": "Merge Visible",
+    "enabled": false,
+    "visible": true,
+    "command": 1139
+  },
+  {
+    "category": "Layer",
+    "name": "Flatten Image",
+    "enabled": true,
+    "visible": true,
+    "command": 1141
+  },
+  {
+    "category": "Layer | Matting",
+    "name": "Color Decontaminate",
+    "enabled": false,
+    "visible": true,
+    "command": 1295
+  },
+  {
+    "category": "Layer | Matting",
+    "name": "Defringe",
+    "enabled": true,
+    "visible": true,
+    "command": 1037
+  },
+  {
+    "category": "Layer | Matting",
+    "name": "Remove Black Matte",
+    "enabled": true,
+    "visible": true,
+    "command": 2701
+  },
+  {
+    "category": "Layer | Matting",
+    "name": "Remove White Matte",
+    "enabled": true,
+    "visible": true,
+    "command": 2703
+  },
+  {
+    "category": "Type",
+    "name": "More from Adobe Fonts",
+    "enabled": false,
+    "visible": true,
+    "command": 1522
+  },
+  {
+    "category": "Type | Panels",
+    "name": "Character Panel",
+    "enabled": true,
+    "visible": true,
+    "command": 3300
+  },
+  {
+    "category": "Type | Panels",
+    "name": "Paragraph Panel",
+    "enabled": true,
+    "visible": true,
+    "command": 3350
+  },
+  {
+    "category": "Type | Panels",
+    "name": "Glyphs Panel",
+    "enabled": true,
+    "visible": true,
+    "command": 9068
+  },
+  {
+    "category": "Type | Panels",
+    "name": "Character Styles Panel",
+    "enabled": true,
+    "visible": true,
+    "command": 9066
+  },
+  {
+    "category": "Type | Panels",
+    "name": "Paragraph Styles Panel",
+    "enabled": true,
+    "visible": true,
+    "command": 9067
+  },
+  {
+    "category": "Type | Anti-Alias",
+    "name": "None",
+    "enabled": false,
+    "visible": true,
+    "command": 3370
+  },
+  {
+    "category": "Type | Anti-Alias",
+    "name": "Sharp",
+    "enabled": false,
+    "visible": true,
+    "command": 3374
+  },
+  {
+    "category": "Type | Anti-Alias",
+    "name": "Crisp",
+    "enabled": false,
+    "visible": true,
+    "command": 3371
+  },
+  {
+    "category": "Type | Anti-Alias",
+    "name": "Strong",
+    "enabled": false,
+    "visible": true,
+    "command": 3372
+  },
+  {
+    "category": "Type | Anti-Alias",
+    "name": "Smooth",
+    "enabled": false,
+    "visible": true,
+    "command": 3373
+  },
+  {
+    "category": "Type | Anti-Alias",
+    "name": "Windows LCD",
+    "enabled": false,
+    "visible": true,
+    "command": 3375
+  },
+  {
+    "category": "Type | Anti-Alias",
+    "name": "Windows",
+    "enabled": false,
+    "visible": true,
+    "command": 3376
+  },
+  {
+    "category": "Type | Orientation",
+    "name": "Horizontal",
+    "enabled": false,
+    "visible": true,
+    "command": 1223
+  },
+  {
+    "category": "Type | Orientation",
+    "name": "Vertical",
+    "enabled": false,
+    "visible": true,
+    "command": 1224
+  },
+  {
+    "category": "Type | OpenType",
+    "name": "Standard Ligatures",
+    "enabled": false,
+    "visible": true,
+    "command": 3309
+  },
+  {
+    "category": "Type | OpenType",
+    "name": "Contextual Alternates",
+    "enabled": false,
+    "visible": true,
+    "command": 3338
+  },
+  {
+    "category": "Type | OpenType",
+    "name": "Discretionary Ligatures",
+    "enabled": false,
+    "visible": true,
+    "command": 3339
+  },
+  {
+    "category": "Type | OpenType",
+    "name": "Swash",
+    "enabled": false,
+    "visible": true,
+    "command": 3334
+  },
+  {
+    "category": "Type | OpenType",
+    "name": "Oldstyle",
+    "enabled": false,
+    "visible": true,
+    "command": 3310
+  },
+  {
+    "category": "Type | OpenType",
+    "name": "Stylistic Alternates",
+    "enabled": false,
+    "visible": true,
+    "command": 3340
+  },
+  {
+    "category": "Type | OpenType",
+    "name": "Titling Alternates",
+    "enabled": false,
+    "visible": true,
+    "command": 3341
+  },
+  {
+    "category": "Type | OpenType",
+    "name": "Ornaments",
+    "enabled": false,
+    "visible": true,
+    "command": 3342
+  },
+  {
+    "category": "Type | OpenType",
+    "name": "Ordinals",
+    "enabled": false,
+    "visible": true,
+    "command": 3343
+  },
+  {
+    "category": "Type | OpenType",
+    "name": "Fractions",
+    "enabled": false,
+    "visible": true,
+    "command": 3344
+  },
+  {
+    "category": "Type | OpenType",
+    "name": "Justification Alternates",
+    "enabled": false,
+    "visible": true,
+    "command": 9086
+  },
+  {
+    "category": "Type | OpenType",
+    "name": "Japanese 78",
+    "enabled": false,
+    "visible": true,
+    "command": 3345
+  },
+  {
+    "category": "Type | OpenType",
+    "name": "Japanese Expert",
+    "enabled": false,
+    "visible": true,
+    "command": 3346
+  },
+  {
+    "category": "Type | OpenType",
+    "name": "Japanese Traditional",
+    "enabled": false,
+    "visible": true,
+    "command": 3347
+  },
+  {
+    "category": "Type | OpenType",
+    "name": "Proportional Metrics",
+    "enabled": false,
+    "visible": true,
+    "command": 3327
+  },
+  {
+    "category": "Type | OpenType",
+    "name": "Kana",
+    "enabled": false,
+    "visible": true,
+    "command": 3348
+  },
+  {
+    "category": "Type | OpenType",
+    "name": "Roman Italics",
+    "enabled": false,
+    "visible": true,
+    "command": 3349
+  },
+  {
+    "category": "Type",
+    "name": "Extrude to 3D",
+    "enabled": false,
+    "visible": true,
+    "command": 9106
+  },
+  {
+    "category": "Type",
+    "name": "Create Work Path",
+    "enabled": false,
+    "visible": true,
+    "command": 1228
+  },
+  {
+    "category": "Type",
+    "name": "Convert to Shape",
+    "enabled": false,
+    "visible": true,
+    "command": 1229
+  },
+  {
+    "category": "Type",
+    "name": "Rasterize Type Layer",
+    "enabled": false,
+    "visible": true,
+    "command": 3542
+  },
+  {
+    "category": "Type",
+    "name": "Convert Text Shape Type",
+    "enabled": false,
+    "visible": true,
+    "command": 3382
+  },
+  {
+    "category": "Type",
+    "name": "Warp Text",
+    "enabled": false,
+    "visible": true,
+    "command": 2218
+  },
+  {
+    "category": "Type",
+    "name": "Match Font",
+    "enabled": false,
+    "visible": true,
+    "command": 9123
+  },
+  {
+    "category": "Type | Font Preview Size",
+    "name": "None",
+    "enabled": false,
+    "visible": true,
+    "command": 9109
+  },
+  {
+    "category": "Type | Font Preview Size",
+    "name": "Small",
+    "enabled": false,
+    "visible": true,
+    "command": 9110
+  },
+  {
+    "category": "Type | Font Preview Size",
+    "name": "Medium",
+    "enabled": false,
+    "visible": true,
+    "command": 9111
+  },
+  {
+    "category": "Type | Font Preview Size",
+    "name": "Large",
+    "enabled": false,
+    "visible": true,
+    "command": 9112
+  },
+  {
+    "category": "Type | Font Preview Size",
+    "name": "Extra Large",
+    "enabled": false,
+    "visible": true,
+    "command": 9113
+  },
+  {
+    "category": "Type | Font Preview Size",
+    "name": "Huge",
+    "enabled": false,
+    "visible": true,
+    "command": 9114
+  },
+  {
+    "category": "Type | Language Options",
+    "name": "Default Features",
+    "enabled": false,
+    "visible": true,
+    "command": 9100
+  },
+  {
+    "category": "Type | Language Options",
+    "name": "East Asian Features",
+    "enabled": false,
+    "visible": true,
+    "command": 9101
+  },
+  {
+    "category": "Type | Language Options",
+    "name": "Middle Eastern Features",
+    "enabled": false,
+    "visible": true,
+    "command": 9102
+  },
+  {
+    "category": "Type | Language Options",
+    "name": "Standard Vertical Roman Alignment",
+    "enabled": false,
+    "visible": true,
+    "command": 9130
+  },
+  {
+    "category": "Type | Language Options",
+    "name": "Tate-chu-yoko",
+    "enabled": false,
+    "visible": true,
+    "command": 9131
+  },
+  {
+    "category": "Type | Language Options",
+    "name": "Top-to-Top Leading",
+    "enabled": false,
+    "visible": true,
+    "command": 9132
+  },
+  {
+    "category": "Type | Language Options",
+    "name": "Bottom-to-Bottom Leading",
+    "enabled": false,
+    "visible": true,
+    "command": 9133
+  },
+  {
+    "category": "Type | Language Options",
+    "name": "LTR Arabic Digits - 123%",
+    "enabled": false,
+    "visible": true,
+    "command": 3451
+  },
+  {
+    "category": "Type | Language Options",
+    "name": "RTL Arabic Digits - %123",
+    "enabled": false,
+    "visible": true,
+    "command": 3459
+  },
+  {
+    "category": "Type | Language Options",
+    "name": "Hindi Digits",
+    "enabled": false,
+    "visible": true,
+    "command": 3453
+  },
+  {
+    "category": "Type | Language Options",
+    "name": "Farsi Digits",
+    "enabled": false,
+    "visible": true,
+    "command": 3452
+  },
+  {
+    "category": "Type | Language Options",
+    "name": "Kashidas",
+    "enabled": false,
+    "visible": true,
+    "command": 9137
+  },
+  {
+    "category": "Type | Language Options",
+    "name": "Default Direction",
+    "enabled": false,
+    "visible": true,
+    "command": 9138
+  },
+  {
+    "category": "Type | Language Options",
+    "name": "Left-to-Right Character Direction",
+    "enabled": false,
+    "visible": true,
+    "command": 9139
+  },
+  {
+    "category": "Type | Language Options",
+    "name": "Right-to-Left Character Direction",
+    "enabled": false,
+    "visible": true,
+    "command": 9140
+  },
+  {
+    "category": "Type",
+    "name": "Update All Text Layers",
+    "enabled": true,
+    "visible": true,
+    "command": 3390
+  },
+  {
+    "category": "Type",
+    "name": "Manage Missing Fonts",
+    "enabled": true,
+    "visible": true,
+    "command": 9087
+  },
+  {
+    "category": "Type",
+    "name": "Paste Lorem Ipsum",
+    "enabled": false,
+    "visible": true,
+    "command": 9119
+  },
+  {
+    "category": "Type",
+    "name": "Load Default Type Styles",
+    "enabled": true,
+    "visible": true,
+    "command": 9121
+  },
+  {
+    "category": "Type",
+    "name": "Save Default Type Styles",
+    "enabled": true,
+    "visible": true,
+    "command": 9122
+  },
+  {
+    "category": "3D",
+    "name": "New 3D Layer from File",
+    "enabled": true,
+    "visible": true,
+    "command": 6372
+  },
+  {
+    "category": "3D",
+    "name": "Merge 3D Layers",
+    "enabled": false,
+    "visible": true,
+    "command": 6501
+  },
+  {
+    "category": "3D",
+    "name": "Export 3D Layer",
+    "enabled": false,
+    "visible": true,
+    "command": 6377
+  },
+  {
+    "category": "3D | Spherical Panorama",
+    "name": "Import Panorama",
+    "enabled": false,
+    "visible": true,
+    "command": 6587
+  },
+  {
+    "category": "3D | Spherical Panorama",
+    "name": "New Panorama Layer From Selected Layer(s)",
+    "enabled": true,
+    "visible": true,
+    "command": 6588
+  },
+  {
+    "category": "3D | Spherical Panorama",
+    "name": "Export Panorama",
+    "enabled": false,
+    "visible": true,
+    "command": 6589
+  },
+  {
+    "category": "3D",
+    "name": "Get More Content",
+    "enabled": false,
+    "visible": true,
+    "command": 6502
+  },
+  {
+    "category": "3D",
+    "name": "New 3D Extrusion from Selected Layer",
+    "enabled": true,
+    "visible": true,
+    "command": 6505
+  },
+  {
+    "category": "3D",
+    "name": "New 3D Extrusion from Selected Path",
+    "enabled": false,
+    "visible": true,
+    "command": 6507
+  },
+  {
+    "category": "3D",
+    "name": "New 3D Extrusion from Current Selection",
+    "enabled": false,
+    "visible": true,
+    "command": 6508
+  },
+  {
+    "category": "3D | New Mesh from Layer",
+    "name": "Postcard",
+    "enabled": true,
+    "visible": true,
+    "command": 6379
+  },
+  {
+    "category": "3D | New Mesh from Layer | Mesh Preset",
+    "name": "Cone",
+    "enabled": true,
+    "visible": true,
+    "command": -719
+  },
+  {
+    "category": "3D | New Mesh from Layer | Mesh Preset",
+    "name": "Cube Wrap",
+    "enabled": true,
+    "visible": true,
+    "command": -720
+  },
+  {
+    "category": "3D | New Mesh from Layer | Mesh Preset",
+    "name": "Cube",
+    "enabled": true,
+    "visible": true,
+    "command": -721
+  },
+  {
+    "category": "3D | New Mesh from Layer | Mesh Preset",
+    "name": "Cylinder",
+    "enabled": true,
+    "visible": true,
+    "command": -722
+  },
+  {
+    "category": "3D | New Mesh from Layer | Mesh Preset",
+    "name": "Donut",
+    "enabled": true,
+    "visible": true,
+    "command": -723
+  },
+  {
+    "category": "3D | New Mesh from Layer | Mesh Preset",
+    "name": "Hat",
+    "enabled": true,
+    "visible": true,
+    "command": -724
+  },
+  {
+    "category": "3D | New Mesh from Layer | Mesh Preset",
+    "name": "Pyramid",
+    "enabled": true,
+    "visible": true,
+    "command": -725
+  },
+  {
+    "category": "3D | New Mesh from Layer | Mesh Preset",
+    "name": "Ring",
+    "enabled": true,
+    "visible": true,
+    "command": -726
+  },
+  {
+    "category": "3D | New Mesh from Layer | Mesh Preset",
+    "name": "Soda",
+    "enabled": true,
+    "visible": true,
+    "command": -727
+  },
+  {
+    "category": "3D | New Mesh from Layer | Mesh Preset",
+    "name": "Sphere",
+    "enabled": true,
+    "visible": true,
+    "command": -728
+  },
+  {
+    "category": "3D | New Mesh from Layer | Mesh Preset",
+    "name": "Wine Bottle",
+    "enabled": true,
+    "visible": true,
+    "command": -729
+  },
+  {
+    "category": "3D | New Mesh from Layer | Depth Map to",
+    "name": "Plane",
+    "enabled": true,
+    "visible": true,
+    "command": 6468
+  },
+  {
+    "category": "3D | New Mesh from Layer | Depth Map to",
+    "name": "Two-Sided Plane",
+    "enabled": true,
+    "visible": true,
+    "command": 6469
+  },
+  {
+    "category": "3D | New Mesh from Layer | Depth Map to",
+    "name": "Solid Extrusion",
+    "enabled": true,
+    "visible": true,
+    "command": 6585
+  },
+  {
+    "category": "3D | New Mesh from Layer | Depth Map to",
+    "name": "Two-Sided Solid Extrusion",
+    "enabled": true,
+    "visible": true,
+    "command": 6586
+  },
+  {
+    "category": "3D | New Mesh from Layer | Depth Map to",
+    "name": "Cylinder",
+    "enabled": true,
+    "visible": true,
+    "command": 6471
+  },
+  {
+    "category": "3D | New Mesh from Layer | Depth Map to",
+    "name": "Sphere",
+    "enabled": true,
+    "visible": true,
+    "command": 6472
+  },
+  {
+    "category": "3D | New Mesh from Layer",
+    "name": "Volume",
+    "enabled": false,
+    "visible": true,
+    "command": 6463
+  },
+  {
+    "category": "3D",
+    "name": "Group Objects",
+    "enabled": false,
+    "visible": true,
+    "command": 6735
+  },
+  {
+    "category": "3D",
+    "name": "Group All Objects in Scene",
+    "enabled": false,
+    "visible": true,
+    "command": 6556
+  },
+  {
+    "category": "3D",
+    "name": "Move Object to Ground Plane",
+    "enabled": false,
+    "visible": true,
+    "command": 6514
+  },
+  {
+    "category": "3D",
+    "name": "Pack Objects on Ground Plane",
+    "enabled": false,
+    "visible": true,
+    "command": 6581
+  },
+  {
+    "category": "3D",
+    "name": "New Tiled Painting from Layer",
+    "enabled": true,
+    "visible": true,
+    "command": 6462
+  },
+  {
+    "category": "3D",
+    "name": "Generate UVs",
+    "enabled": false,
+    "visible": true,
+    "command": 6365
+  },
+  {
+    "category": "3D",
+    "name": "Paint Falloff",
+    "enabled": false,
+    "visible": true,
+    "command": 6496
+  },
+  {
+    "category": "3D | Paint System",
+    "name": "Texture",
+    "enabled": false,
+    "visible": true,
+    "command": 6575
+  },
+  {
+    "category": "3D | Paint System",
+    "name": "Projection",
+    "enabled": false,
+    "visible": true,
+    "command": 6576
+  },
+  {
+    "category": "3D | Paint on Target Texture",
+    "name": "Base Color",
+    "enabled": false,
+    "visible": true,
+    "command": 6560
+  },
+  {
+    "category": "3D | Paint on Target Texture",
+    "name": "Height",
+    "enabled": false,
+    "visible": true,
+    "command": 6562
+  },
+  {
+    "category": "3D | Paint on Target Texture",
+    "name": "Opacity",
+    "enabled": false,
+    "visible": true,
+    "command": 6564
+  },
+  {
+    "category": "3D | Paint on Target Texture",
+    "name": "Roughness",
+    "enabled": false,
+    "visible": true,
+    "command": 6570
+  },
+  {
+    "category": "3D | Paint on Target Texture",
+    "name": "Metallic",
+    "enabled": false,
+    "visible": true,
+    "command": 6573
+  },
+  {
+    "category": "3D | Paint on Target Texture",
+    "name": "Translucence",
+    "enabled": false,
+    "visible": true,
+    "command": 6574
+  },
+  {
+    "category": "3D | Paint on Target Texture",
+    "name": "Depth",
+    "enabled": false,
+    "visible": true,
+    "command": 6571
+  },
+  {
+    "category": "3D",
+    "name": "Select Paintable Areas",
+    "enabled": false,
+    "visible": true,
+    "command": 6542
+  },
+  {
+    "category": "3D | Create Painting Overlay",
+    "name": "Wireframe",
+    "enabled": false,
+    "visible": true,
+    "command": 6380
+  },
+  {
+    "category": "3D | Create Painting Overlay",
+    "name": "Shaded",
+    "enabled": false,
+    "visible": true,
+    "command": 6381
+  },
+  {
+    "category": "3D | Create Painting Overlay",
+    "name": "Vertex Colors",
+    "enabled": false,
+    "visible": true,
+    "command": 6751
+  },
+  {
+    "category": "3D",
+    "name": "Split Extrusion",
+    "enabled": false,
+    "visible": true,
+    "command": 6544
+  },
+  {
+    "category": "3D",
+    "name": "Apply Cross Section to Scene",
+    "enabled": false,
+    "visible": true,
+    "command": 6442
+  },
+  {
+    "category": "3D",
+    "name": "Unify Scene for 3D Printing",
+    "enabled": false,
+    "visible": true,
+    "command": 6579
+  },
+  {
+    "category": "3D",
+    "name": "Simplify Mesh(es)",
+    "enabled": false,
+    "visible": true,
+    "command": 6583
+  },
+  {
+    "category": "3D",
+    "name": "Make Work Path from 3D Layer",
+    "enabled": false,
+    "visible": true,
+    "command": 6516
+  },
+  {
+    "category": "3D",
+    "name": "Render 3D Layer",
+    "enabled": false,
+    "visible": true,
+    "command": 6545
+  },
+  {
+    "category": "3D",
+    "name": "Render Document To File",
+    "enabled": false,
+    "visible": true,
+    "command": 4446
+  },
+  {
+    "category": "3D",
+    "name": "Sketch With Current Brush",
+    "enabled": false,
+    "visible": true,
+    "command": 6517
+  },
+  {
+    "category": "3D",
+    "name": "3D Print Settings",
+    "enabled": false,
+    "visible": true,
+    "command": 6529
+  },
+  {
+    "category": "3D",
+    "name": "3D Print",
+    "enabled": false,
+    "visible": true,
+    "command": 6519
+  },
+  {
+    "category": "Select",
+    "name": "All",
+    "enabled": true,
+    "visible": true,
+    "command": 1017
+  },
+  {
+    "category": "Select",
+    "name": "Deselect",
+    "enabled": false,
+    "visible": true,
+    "command": 1016
+  },
+  {
+    "category": "Select",
+    "name": "Reselect",
+    "enabled": false,
+    "visible": true,
+    "command": 1943
+  },
+  {
+    "category": "Select",
+    "name": "Inverse",
+    "enabled": false,
+    "visible": true,
+    "command": 1018
+  },
+  {
+    "category": "Select",
+    "name": "All Layers",
+    "enabled": true,
+    "visible": true,
+    "command": 2962
+  },
+  {
+    "category": "Select",
+    "name": "Deselect Layers",
+    "enabled": true,
+    "visible": true,
+    "command": 2963
+  },
+  {
+    "category": "Select",
+    "name": "Find Layers",
+    "enabled": true,
+    "visible": true,
+    "command": 2982
+  },
+  {
+    "category": "Select",
+    "name": "Isolate Layers",
+    "enabled": true,
+    "visible": true,
+    "command": 2986
+  },
+  {
+    "category": "Select",
+    "name": "Color Range",
+    "enabled": true,
+    "visible": true,
+    "command": 1152
+  },
+  {
+    "category": "Select",
+    "name": "Focus Area",
+    "enabled": true,
+    "visible": true,
+    "command": 1460
+  },
+  {
+    "category": "Select | Subject",
+    "name": "Cloud (More detail)",
+    "enabled": false,
+    "visible": true,
+    "command": 1465
+  },
+  {
+    "category": "Select | Subject",
+    "name": "Device (Quicker results)",
+    "enabled": false,
+    "visible": true,
+    "command": 1466
+  },
+  {
+    "category": "Select",
+    "name": "Subject",
+    "enabled": true,
+    "visible": true,
+    "command": 1461
+  },
+  {
+    "category": "Select",
+    "name": "Sky",
+    "enabled": true,
+    "visible": true,
+    "command": 1462
+  },
+  {
+    "category": "Select",
+    "name": "Select and Mask",
+    "enabled": true,
+    "visible": true,
+    "command": 1115
+  },
+  {
+    "category": "Select | Modify",
+    "name": "Border",
+    "enabled": false,
+    "visible": true,
+    "command": 1035
+  },
+  {
+    "category": "Select | Modify",
+    "name": "Smooth",
+    "enabled": false,
+    "visible": true,
+    "command": 1108
+  },
+  {
+    "category": "Select | Modify",
+    "name": "Expand",
+    "enabled": false,
+    "visible": true,
+    "command": 1109
+  },
+  {
+    "category": "Select | Modify",
+    "name": "Contract",
+    "enabled": false,
+    "visible": true,
+    "command": 1110
+  },
+  {
+    "category": "Select | Modify",
+    "name": "Feather",
+    "enabled": false,
+    "visible": true,
+    "command": 1036
+  },
+  {
+    "category": "Select",
+    "name": "Grow",
+    "enabled": false,
+    "visible": true,
+    "command": 1033
+  },
+  {
+    "category": "Select",
+    "name": "Similar",
+    "enabled": false,
+    "visible": true,
+    "command": 1034
+  },
+  {
+    "category": "Select",
+    "name": "Transform Selection",
+    "enabled": false,
+    "visible": true,
+    "command": 1971
+  },
+  {
+    "category": "Select",
+    "name": "Edit in Quick Mask Mode",
+    "enabled": true,
+    "visible": true,
+    "command": 5069
+  },
+  {
+    "category": "Select",
+    "name": "Load Selection",
+    "enabled": true,
+    "visible": true,
+    "command": 1200
+  },
+  {
+    "category": "Select",
+    "name": "Save Selection",
+    "enabled": false,
+    "visible": true,
+    "command": 1281
+  },
+  {
+    "category": "Select",
+    "name": "New 3D Extrusion",
+    "enabled": false,
+    "visible": true,
+    "command": 6508
+  },
+  {
+    "category": "Filter",
+    "name": "Last Filter",
+    "enabled": false,
+    "visible": true,
+    "command": 1019
+  },
+  {
+    "category": "Filter",
+    "name": "Convert for Smart Filters",
+    "enabled": true,
+    "visible": true,
+    "command": 6440
+  },
+  {
+    "category": "Filter",
+    "name": "Neural Filters",
+    "enabled": true,
+    "visible": true,
+    "command": 8820
+  },
+  {
+    "category": "Filter",
+    "name": "Filter Gallery",
+    "enabled": true,
+    "visible": true,
+    "command": -337
+  },
+  {
+    "category": "Filter",
+    "name": "Adaptive Wide Angle",
+    "enabled": true,
+    "visible": true,
+    "command": -338
+  },
+  {
+    "category": "Filter",
+    "name": "Camera Raw Filter",
+    "enabled": true,
+    "visible": true,
+    "command": -339
+  },
+  {
+    "category": "Filter",
+    "name": "Lens Correction",
+    "enabled": true,
+    "visible": true,
+    "command": -340
+  },
+  {
+    "category": "Filter",
+    "name": "Liquify",
+    "enabled": true,
+    "visible": true,
+    "command": -341
+  },
+  {
+    "category": "Filter",
+    "name": "Vanishing Point",
+    "enabled": true,
+    "visible": true,
+    "command": -342
+  },
+  {
+    "category": "Filter | 3D",
+    "name": "Generate Bump (Height) Map",
+    "enabled": true,
+    "visible": true,
+    "command": -344
+  },
+  {
+    "category": "Filter | 3D",
+    "name": "Generate Normal Map",
+    "enabled": true,
+    "visible": true,
+    "command": -345
+  },
+  {
+    "category": "Filter | Artistic",
+    "name": "Colored Pencil",
+    "enabled": false,
+    "visible": false,
+    "command": -347
+  },
+  {
+    "category": "Filter | Artistic",
+    "name": "Cutout",
+    "enabled": false,
+    "visible": false,
+    "command": -348
+  },
+  {
+    "category": "Filter | Artistic",
+    "name": "Dry Brush",
+    "enabled": false,
+    "visible": false,
+    "command": -349
+  },
+  {
+    "category": "Filter | Artistic",
+    "name": "Film Grain",
+    "enabled": false,
+    "visible": false,
+    "command": -350
+  },
+  {
+    "category": "Filter | Artistic",
+    "name": "Fresco",
+    "enabled": false,
+    "visible": false,
+    "command": -351
+  },
+  {
+    "category": "Filter | Artistic",
+    "name": "Neon Glow",
+    "enabled": false,
+    "visible": false,
+    "command": -352
+  },
+  {
+    "category": "Filter | Artistic",
+    "name": "Paint Daubs",
+    "enabled": false,
+    "visible": false,
+    "command": -353
+  },
+  {
+    "category": "Filter | Artistic",
+    "name": "Palette Knife",
+    "enabled": false,
+    "visible": false,
+    "command": -354
+  },
+  {
+    "category": "Filter | Artistic",
+    "name": "Plastic Wrap",
+    "enabled": false,
+    "visible": false,
+    "command": -355
+  },
+  {
+    "category": "Filter | Artistic",
+    "name": "Poster Edges",
+    "enabled": false,
+    "visible": false,
+    "command": -356
+  },
+  {
+    "category": "Filter | Artistic",
+    "name": "Rough Pastels",
+    "enabled": false,
+    "visible": false,
+    "command": -357
+  },
+  {
+    "category": "Filter | Artistic",
+    "name": "Smudge Stick",
+    "enabled": false,
+    "visible": false,
+    "command": -358
+  },
+  {
+    "category": "Filter | Artistic",
+    "name": "Sponge",
+    "enabled": false,
+    "visible": false,
+    "command": -359
+  },
+  {
+    "category": "Filter | Artistic",
+    "name": "Underpainting",
+    "enabled": false,
+    "visible": false,
+    "command": -360
+  },
+  {
+    "category": "Filter | Artistic",
+    "name": "Watercolor",
+    "enabled": false,
+    "visible": false,
+    "command": -361
+  },
+  {
+    "category": "Filter | Blur",
+    "name": "Average",
+    "enabled": true,
+    "visible": true,
+    "command": -363
+  },
+  {
+    "category": "Filter | Blur",
+    "name": "Blur",
+    "enabled": true,
+    "visible": true,
+    "command": -364
+  },
+  {
+    "category": "Filter | Blur",
+    "name": "Blur More",
+    "enabled": true,
+    "visible": true,
+    "command": -365
+  },
+  {
+    "category": "Filter | Blur",
+    "name": "Box Blur",
+    "enabled": true,
+    "visible": true,
+    "command": -366
+  },
+  {
+    "category": "Filter | Blur",
+    "name": "Gaussian Blur",
+    "enabled": true,
+    "visible": true,
+    "command": -367
+  },
+  {
+    "category": "Filter | Blur",
+    "name": "Lens Blur",
+    "enabled": true,
+    "visible": true,
+    "command": -368
+  },
+  {
+    "category": "Filter | Blur",
+    "name": "Motion Blur",
+    "enabled": true,
+    "visible": true,
+    "command": -369
+  },
+  {
+    "category": "Filter | Blur",
+    "name": "Radial Blur",
+    "enabled": true,
+    "visible": true,
+    "command": -370
+  },
+  {
+    "category": "Filter | Blur",
+    "name": "Shape Blur",
+    "enabled": true,
+    "visible": true,
+    "command": -371
+  },
+  {
+    "category": "Filter | Blur",
+    "name": "Smart Blur",
+    "enabled": true,
+    "visible": true,
+    "command": -372
+  },
+  {
+    "category": "Filter | Blur",
+    "name": "Surface Blur",
+    "enabled": true,
+    "visible": true,
+    "command": -373
+  },
+  {
+    "category": "Filter | Blur Gallery",
+    "name": "Field Blur",
+    "enabled": true,
+    "visible": true,
+    "command": 2225
+  },
+  {
+    "category": "Filter | Blur Gallery",
+    "name": "Iris Blur",
+    "enabled": true,
+    "visible": true,
+    "command": 2224
+  },
+  {
+    "category": "Filter | Blur Gallery",
+    "name": "Tilt-Shift",
+    "enabled": true,
+    "visible": true,
+    "command": 2226
+  },
+  {
+    "category": "Filter | Blur Gallery",
+    "name": "Path Blur",
+    "enabled": true,
+    "visible": true,
+    "command": 2227
+  },
+  {
+    "category": "Filter | Blur Gallery",
+    "name": "Spin Blur",
+    "enabled": true,
+    "visible": true,
+    "command": 2229
+  },
+  {
+    "category": "Filter | Brush Strokes",
+    "name": "Accented Edges",
+    "enabled": false,
+    "visible": false,
+    "command": -376
+  },
+  {
+    "category": "Filter | Brush Strokes",
+    "name": "Angled Strokes",
+    "enabled": false,
+    "visible": false,
+    "command": -377
+  },
+  {
+    "category": "Filter | Brush Strokes",
+    "name": "Crosshatch",
+    "enabled": false,
+    "visible": false,
+    "command": -378
+  },
+  {
+    "category": "Filter | Brush Strokes",
+    "name": "Dark Strokes",
+    "enabled": false,
+    "visible": false,
+    "command": -379
+  },
+  {
+    "category": "Filter | Brush Strokes",
+    "name": "Ink Outlines",
+    "enabled": false,
+    "visible": false,
+    "command": -380
+  },
+  {
+    "category": "Filter | Brush Strokes",
+    "name": "Spatter",
+    "enabled": false,
+    "visible": false,
+    "command": -381
+  },
+  {
+    "category": "Filter | Brush Strokes",
+    "name": "Sprayed Strokes",
+    "enabled": false,
+    "visible": false,
+    "command": -382
+  },
+  {
+    "category": "Filter | Brush Strokes",
+    "name": "Sumi-e",
+    "enabled": false,
+    "visible": false,
+    "command": -383
+  },
+  {
+    "category": "Filter | Distort",
+    "name": "Diffuse Glow",
+    "enabled": false,
+    "visible": false,
+    "command": -385
+  },
+  {
+    "category": "Filter | Distort",
+    "name": "Displace",
+    "enabled": true,
+    "visible": true,
+    "command": -386
+  },
+  {
+    "category": "Filter | Distort",
+    "name": "Glass",
+    "enabled": false,
+    "visible": false,
+    "command": -387
+  },
+  {
+    "category": "Filter | Distort",
+    "name": "Ocean Ripple",
+    "enabled": false,
+    "visible": false,
+    "command": -388
+  },
+  {
+    "category": "Filter | Distort",
+    "name": "Pinch",
+    "enabled": false,
+    "visible": true,
+    "command": -389
+  },
+  {
+    "category": "Filter | Distort",
+    "name": "Polar Coordinates",
+    "enabled": true,
+    "visible": true,
+    "command": -390
+  },
+  {
+    "category": "Filter | Distort",
+    "name": "Ripple",
+    "enabled": true,
+    "visible": true,
+    "command": -391
+  },
+  {
+    "category": "Filter | Distort",
+    "name": "Shear",
+    "enabled": true,
+    "visible": true,
+    "command": -392
+  },
+  {
+    "category": "Filter | Distort",
+    "name": "Spherize",
+    "enabled": false,
+    "visible": true,
+    "command": -393
+  },
+  {
+    "category": "Filter | Distort",
+    "name": "Twirl",
+    "enabled": false,
+    "visible": true,
+    "command": -394
+  },
+  {
+    "category": "Filter | Distort",
+    "name": "Wave",
+    "enabled": true,
+    "visible": true,
+    "command": -395
+  },
+  {
+    "category": "Filter | Distort",
+    "name": "ZigZag",
+    "enabled": false,
+    "visible": true,
+    "command": -396
+  },
+  {
+    "category": "Filter | Noise",
+    "name": "Add Noise",
+    "enabled": true,
+    "visible": true,
+    "command": -398
+  },
+  {
+    "category": "Filter | Noise",
+    "name": "Despeckle",
+    "enabled": true,
+    "visible": true,
+    "command": -399
+  },
+  {
+    "category": "Filter | Noise",
+    "name": "Dust  Scratches",
+    "enabled": true,
+    "visible": true,
+    "command": -400
+  },
+  {
+    "category": "Filter | Noise",
+    "name": "Median",
+    "enabled": true,
+    "visible": true,
+    "command": -401
+  },
+  {
+    "category": "Filter | Noise",
+    "name": "Reduce Noise",
+    "enabled": true,
+    "visible": true,
+    "command": -402
+  },
+  {
+    "category": "Filter | Pixelate",
+    "name": "Color Halftone",
+    "enabled": true,
+    "visible": true,
+    "command": -404
+  },
+  {
+    "category": "Filter | Pixelate",
+    "name": "Crystallize",
+    "enabled": true,
+    "visible": true,
+    "command": -405
+  },
+  {
+    "category": "Filter | Pixelate",
+    "name": "Facet",
+    "enabled": true,
+    "visible": true,
+    "command": -406
+  },
+  {
+    "category": "Filter | Pixelate",
+    "name": "Fragment",
+    "enabled": true,
+    "visible": true,
+    "command": -407
+  },
+  {
+    "category": "Filter | Pixelate",
+    "name": "Mezzotint",
+    "enabled": true,
+    "visible": true,
+    "command": -408
+  },
+  {
+    "category": "Filter | Pixelate",
+    "name": "Mosaic",
+    "enabled": true,
+    "visible": true,
+    "command": -409
+  },
+  {
+    "category": "Filter | Pixelate",
+    "name": "Pointillize",
+    "enabled": true,
+    "visible": true,
+    "command": -410
+  },
+  {
+    "category": "Filter | Render",
+    "name": "Flame",
+    "enabled": true,
+    "visible": true,
+    "command": 2231
+  },
+  {
+    "category": "Filter | Render",
+    "name": "Picture Frame",
+    "enabled": true,
+    "visible": true,
+    "command": 2232
+  },
+  {
+    "category": "Filter | Render",
+    "name": "Tree",
+    "enabled": true,
+    "visible": true,
+    "command": 2233
+  },
+  {
+    "category": "Filter | Render",
+    "name": "Clouds",
+    "enabled": true,
+    "visible": true,
+    "command": -412
+  },
+  {
+    "category": "Filter | Render",
+    "name": "Difference Clouds",
+    "enabled": true,
+    "visible": true,
+    "command": -413
+  },
+  {
+    "category": "Filter | Render",
+    "name": "Fibers",
+    "enabled": true,
+    "visible": true,
+    "command": -414
+  },
+  {
+    "category": "Filter | Render",
+    "name": "Lens Flare",
+    "enabled": true,
+    "visible": true,
+    "command": -415
+  },
+  {
+    "category": "Filter | Render",
+    "name": "Lighting Effects",
+    "enabled": true,
+    "visible": true,
+    "command": -416
+  },
+  {
+    "category": "Filter | Sharpen",
+    "name": "Shake Reduction",
+    "enabled": true,
+    "visible": true,
+    "command": -418
+  },
+  {
+    "category": "Filter | Sharpen",
+    "name": "Sharpen",
+    "enabled": true,
+    "visible": true,
+    "command": -419
+  },
+  {
+    "category": "Filter | Sharpen",
+    "name": "Sharpen Edges",
+    "enabled": true,
+    "visible": true,
+    "command": -420
+  },
+  {
+    "category": "Filter | Sharpen",
+    "name": "Sharpen More",
+    "enabled": true,
+    "visible": true,
+    "command": -421
+  },
+  {
+    "category": "Filter | Sharpen",
+    "name": "Smart Sharpen",
+    "enabled": true,
+    "visible": true,
+    "command": -422
+  },
+  {
+    "category": "Filter | Sharpen",
+    "name": "Unsharp Mask",
+    "enabled": true,
+    "visible": true,
+    "command": -423
+  },
+  {
+    "category": "Filter | Sketch",
+    "name": "Bas Relief",
+    "enabled": false,
+    "visible": false,
+    "command": -425
+  },
+  {
+    "category": "Filter | Sketch",
+    "name": "Chalk  Charcoal",
+    "enabled": false,
+    "visible": false,
+    "command": -426
+  },
+  {
+    "category": "Filter | Sketch",
+    "name": "Charcoal",
+    "enabled": false,
+    "visible": false,
+    "command": -427
+  },
+  {
+    "category": "Filter | Sketch",
+    "name": "Chrome",
+    "enabled": false,
+    "visible": false,
+    "command": -428
+  },
+  {
+    "category": "Filter | Sketch",
+    "name": "Conté Crayon",
+    "enabled": false,
+    "visible": false,
+    "command": -429
+  },
+  {
+    "category": "Filter | Sketch",
+    "name": "Graphic Pen",
+    "enabled": false,
+    "visible": false,
+    "command": -430
+  },
+  {
+    "category": "Filter | Sketch",
+    "name": "Halftone Pattern",
+    "enabled": false,
+    "visible": false,
+    "command": -431
+  },
+  {
+    "category": "Filter | Sketch",
+    "name": "Note Paper",
+    "enabled": false,
+    "visible": false,
+    "command": -432
+  },
+  {
+    "category": "Filter | Sketch",
+    "name": "Photocopy",
+    "enabled": false,
+    "visible": false,
+    "command": -433
+  },
+  {
+    "category": "Filter | Sketch",
+    "name": "Plaster",
+    "enabled": false,
+    "visible": false,
+    "command": -434
+  },
+  {
+    "category": "Filter | Sketch",
+    "name": "Reticulation",
+    "enabled": false,
+    "visible": false,
+    "command": -435
+  },
+  {
+    "category": "Filter | Sketch",
+    "name": "Stamp",
+    "enabled": false,
+    "visible": false,
+    "command": -436
+  },
+  {
+    "category": "Filter | Sketch",
+    "name": "Torn Edges",
+    "enabled": false,
+    "visible": false,
+    "command": -437
+  },
+  {
+    "category": "Filter | Sketch",
+    "name": "Water Paper",
+    "enabled": false,
+    "visible": false,
+    "command": -438
+  },
+  {
+    "category": "Filter | Stylize",
+    "name": "Diffuse",
+    "enabled": true,
+    "visible": true,
+    "command": -440
+  },
+  {
+    "category": "Filter | Stylize",
+    "name": "Emboss",
+    "enabled": true,
+    "visible": true,
+    "command": -441
+  },
+  {
+    "category": "Filter | Stylize",
+    "name": "Extrude",
+    "enabled": true,
+    "visible": true,
+    "command": -442
+  },
+  {
+    "category": "Filter | Stylize",
+    "name": "Find Edges",
+    "enabled": true,
+    "visible": true,
+    "command": -443
+  },
+  {
+    "category": "Filter | Stylize",
+    "name": "Glowing Edges",
+    "enabled": false,
+    "visible": false,
+    "command": -444
+  },
+  {
+    "category": "Filter | Stylize",
+    "name": "Oil Paint",
+    "enabled": true,
+    "visible": true,
+    "command": -445
+  },
+  {
+    "category": "Filter | Stylize",
+    "name": "Solarize",
+    "enabled": true,
+    "visible": true,
+    "command": -446
+  },
+  {
+    "category": "Filter | Stylize",
+    "name": "Tiles",
+    "enabled": true,
+    "visible": true,
+    "command": -447
+  },
+  {
+    "category": "Filter | Stylize",
+    "name": "Trace Contour",
+    "enabled": true,
+    "visible": true,
+    "command": -448
+  },
+  {
+    "category": "Filter | Stylize",
+    "name": "Wind",
+    "enabled": true,
+    "visible": true,
+    "command": -449
+  },
+  {
+    "category": "Filter | Texture",
+    "name": "Craquelure",
+    "enabled": false,
+    "visible": false,
+    "command": -451
+  },
+  {
+    "category": "Filter | Texture",
+    "name": "Grain",
+    "enabled": false,
+    "visible": false,
+    "command": -452
+  },
+  {
+    "category": "Filter | Texture",
+    "name": "Mosaic Tiles",
+    "enabled": false,
+    "visible": false,
+    "command": -453
+  },
+  {
+    "category": "Filter | Texture",
+    "name": "Patchwork",
+    "enabled": false,
+    "visible": false,
+    "command": -454
+  },
+  {
+    "category": "Filter | Texture",
+    "name": "Stained Glass",
+    "enabled": false,
+    "visible": false,
+    "command": -455
+  },
+  {
+    "category": "Filter | Texture",
+    "name": "Texturizer",
+    "enabled": false,
+    "visible": false,
+    "command": -456
+  },
+  {
+    "category": "Filter | Video",
+    "name": "De-Interlace",
+    "enabled": true,
+    "visible": true,
+    "command": -458
+  },
+  {
+    "category": "Filter | Video",
+    "name": "NTSC Colors",
+    "enabled": true,
+    "visible": true,
+    "command": -459
+  },
+  {
+    "category": "Filter | Other",
+    "name": "Custom",
+    "enabled": true,
+    "visible": true,
+    "command": -461
+  },
+  {
+    "category": "Filter | Other",
+    "name": "High Pass",
+    "enabled": true,
+    "visible": true,
+    "command": -462
+  },
+  {
+    "category": "Filter | Other",
+    "name": "HSB/HSL",
+    "enabled": true,
+    "visible": true,
+    "command": -463
+  },
+  {
+    "category": "Filter | Other",
+    "name": "Maximum",
+    "enabled": true,
+    "visible": true,
+    "command": -464
+  },
+  {
+    "category": "Filter | Other",
+    "name": "Minimum",
+    "enabled": true,
+    "visible": true,
+    "command": -465
+  },
+  {
+    "category": "Filter | Other",
+    "name": "Offset",
+    "enabled": true,
+    "visible": true,
+    "command": -466
+  },
+  {
+    "category": "View | Proof Setup",
+    "name": "Custom",
+    "enabled": true,
+    "visible": true,
+    "command": 2802
+  },
+  {
+    "category": "View | Proof Setup",
+    "name": "Working CMYK",
+    "enabled": true,
+    "visible": true,
+    "command": 2803
+  },
+  {
+    "category": "View | Proof Setup",
+    "name": "Working Cyan Plate",
+    "enabled": true,
+    "visible": true,
+    "command": 2804
+  },
+  {
+    "category": "View | Proof Setup",
+    "name": "Working Magenta Plate",
+    "enabled": true,
+    "visible": true,
+    "command": 2805
+  },
+  {
+    "category": "View | Proof Setup",
+    "name": "Working Yellow Plate",
+    "enabled": true,
+    "visible": true,
+    "command": 2806
+  },
+  {
+    "category": "View | Proof Setup",
+    "name": "Working Black Plate",
+    "enabled": true,
+    "visible": true,
+    "command": 2807
+  },
+  {
+    "category": "View | Proof Setup",
+    "name": "Working CMY Plates",
+    "enabled": true,
+    "visible": true,
+    "command": 2808
+  },
+  {
+    "category": "View | Proof Setup",
+    "name": "Legacy Macintosh RGB (Gamma 1.8)",
+    "enabled": true,
+    "visible": true,
+    "command": 2809
+  },
+  {
+    "category": "View | Proof Setup",
+    "name": "Internet Standard RGB (sRGB)",
+    "enabled": true,
+    "visible": true,
+    "command": 2810
+  },
+  {
+    "category": "View | Proof Setup",
+    "name": "Monitor RGB",
+    "enabled": true,
+    "visible": true,
+    "command": 2811
+  },
+  {
+    "category": "View | Proof Setup",
+    "name": "Color Blindness - Protanopia-type",
+    "enabled": true,
+    "visible": true,
+    "command": 2815
+  },
+  {
+    "category": "View | Proof Setup",
+    "name": "Color Blindness - Deuteranopia-type",
+    "enabled": true,
+    "visible": true,
+    "command": 2816
+  },
+  {
+    "category": "View",
+    "name": "Proof Colors",
+    "enabled": true,
+    "visible": true,
+    "command": 1105
+  },
+  {
+    "category": "View",
+    "name": "Gamut Warning",
+    "enabled": true,
+    "visible": true,
+    "command": 1106
+  },
+  {
+    "category": "View | Pixel Aspect Ratio",
+    "name": "Custom Pixel Aspect Ratio",
+    "enabled": true,
+    "visible": true,
+    "command": 1202
+  },
+  {
+    "category": "View | Pixel Aspect Ratio",
+    "name": "Delete Pixel Aspect Ratio",
+    "enabled": true,
+    "visible": true,
+    "command": 1203
+  },
+  {
+    "category": "View | Pixel Aspect Ratio",
+    "name": "Reset Pixel Aspect Ratios",
+    "enabled": true,
+    "visible": true,
+    "command": 1204
+  },
+  {
+    "category": "View | Pixel Aspect Ratio",
+    "name": "Square",
+    "enabled": true,
+    "visible": true,
+    "command": 1205
+  },
+  {
+    "category": "View | Pixel Aspect Ratio",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -525
+  },
+  {
+    "category": "View | Pixel Aspect Ratio",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -524
+  },
+  {
+    "category": "View | Pixel Aspect Ratio",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -523
+  },
+  {
+    "category": "View | Pixel Aspect Ratio",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -522
+  },
+  {
+    "category": "View | Pixel Aspect Ratio",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -521
+  },
+  {
+    "category": "View | Pixel Aspect Ratio",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -520
+  },
+  {
+    "category": "View | Pixel Aspect Ratio",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -519
+  },
+  {
+    "category": "View",
+    "name": "Pixel Aspect Ratio Correction",
+    "enabled": false,
+    "visible": true,
+    "command": 1112
+  },
+  {
+    "category": "View",
+    "name": "32-bit Preview Options",
+    "enabled": false,
+    "visible": true,
+    "command": 6400
+  },
+  {
+    "category": "View",
+    "name": "Zoom In",
+    "enabled": true,
+    "visible": true,
+    "command": 1004
+  },
+  {
+    "category": "View",
+    "name": "Zoom Out",
+    "enabled": true,
+    "visible": true,
+    "command": 1005
+  },
+  {
+    "category": "View",
+    "name": "Fit on Screen",
+    "enabled": true,
+    "visible": true,
+    "command": 1192
+  },
+  {
+    "category": "View",
+    "name": "Fit Layer(s) on Screen",
+    "enabled": true,
+    "visible": true,
+    "command": 21001
+  },
+  {
+    "category": "View",
+    "name": "Fit Artboard on Screen",
+    "enabled": false,
+    "visible": true,
+    "command": 1195
+  },
+  {
+    "category": "View",
+    "name": "100%",
+    "enabled": true,
+    "visible": true,
+    "command": 1190
+  },
+  {
+    "category": "View",
+    "name": "200%",
+    "enabled": true,
+    "visible": true,
+    "command": 1299
+  },
+  {
+    "category": "View",
+    "name": "Print Size",
+    "enabled": true,
+    "visible": true,
+    "command": 1191
+  },
+  {
+    "category": "View",
+    "name": "Actual Size",
+    "enabled": true,
+    "visible": true,
+    "command": 1217
+  },
+  {
+    "category": "View",
+    "name": "Flip Horizontal",
+    "enabled": true,
+    "visible": true,
+    "command": 1284
+  },
+  {
+    "category": "View",
+    "name": "Pattern Preview",
+    "enabled": true,
+    "visible": true,
+    "command": 1285
+  },
+  {
+    "category": "View | Screen Mode",
+    "name": "Standard Screen Mode",
+    "enabled": false,
+    "visible": true,
+    "command": 5991
+  },
+  {
+    "category": "View | Screen Mode",
+    "name": "Full Screen Mode With Menu Bar",
+    "enabled": false,
+    "visible": true,
+    "command": 5992
+  },
+  {
+    "category": "View | Screen Mode",
+    "name": "Full Screen Mode",
+    "enabled": false,
+    "visible": true,
+    "command": 5993
+  },
+  {
+    "category": "View",
+    "name": "Extras",
+    "enabled": true,
+    "visible": true,
+    "command": 3500
+  },
+  {
+    "category": "View | Show",
+    "name": "Layer Edges",
+    "enabled": true,
+    "visible": true,
+    "command": 3512
+  },
+  {
+    "category": "View | Show",
+    "name": "Selection Edges",
+    "enabled": false,
+    "visible": true,
+    "command": 3501
+  },
+  {
+    "category": "View | Show",
+    "name": "Target Path",
+    "enabled": false,
+    "visible": true,
+    "command": 3502
+  },
+  {
+    "category": "View | Show",
+    "name": "Grid",
+    "enabled": true,
+    "visible": true,
+    "command": 3504
+  },
+  {
+    "category": "View | Show",
+    "name": "Guides",
+    "enabled": false,
+    "visible": true,
+    "command": 3503
+  },
+  {
+    "category": "View | Show",
+    "name": "Canvas Guides",
+    "enabled": false,
+    "visible": true,
+    "command": 3536
+  },
+  {
+    "category": "View | Show",
+    "name": "Artboard Guides",
+    "enabled": false,
+    "visible": true,
+    "command": 3533
+  },
+  {
+    "category": "View | Show",
+    "name": "Artboard Names",
+    "enabled": false,
+    "visible": true,
+    "command": 3535
+  },
+  {
+    "category": "View | Show",
+    "name": "Count",
+    "enabled": false,
+    "visible": true,
+    "command": 3513
+  },
+  {
+    "category": "View | Show",
+    "name": "Smart Guides",
+    "enabled": true,
+    "visible": true,
+    "command": 3511
+  },
+  {
+    "category": "View | Show",
+    "name": "Slices",
+    "enabled": true,
+    "visible": true,
+    "command": 3505
+  },
+  {
+    "category": "View | Show",
+    "name": "Notes",
+    "enabled": false,
+    "visible": true,
+    "command": 3506
+  },
+  {
+    "category": "View | Show",
+    "name": "Pixel Grid",
+    "enabled": true,
+    "visible": true,
+    "command": 3514
+  },
+  {
+    "category": "View | Show",
+    "name": "Pattern Preview Tile Bounds",
+    "enabled": false,
+    "visible": true,
+    "command": 3532
+  },
+  {
+    "category": "View | Show",
+    "name": "3D Secondary View",
+    "enabled": false,
+    "visible": true,
+    "command": 3515
+  },
+  {
+    "category": "View | Show",
+    "name": "3D Ground Plane",
+    "enabled": false,
+    "visible": true,
+    "command": 3518
+  },
+  {
+    "category": "View | Show",
+    "name": "3D Lights",
+    "enabled": false,
+    "visible": true,
+    "command": 3519
+  },
+  {
+    "category": "View | Show",
+    "name": "3D Selection",
+    "enabled": false,
+    "visible": true,
+    "command": 3580
+  },
+  {
+    "category": "View | Show",
+    "name": "UV Overlay",
+    "enabled": true,
+    "visible": true,
+    "command": 3586
+  },
+  {
+    "category": "View | Show",
+    "name": "3D Mesh Bounding Box",
+    "enabled": false,
+    "visible": true,
+    "command": 3587
+  },
+  {
+    "category": "View | Show",
+    "name": "Mesh",
+    "enabled": false,
+    "visible": true,
+    "command": 3517
+  },
+  {
+    "category": "View | Show",
+    "name": "Edit Pins",
+    "enabled": false,
+    "visible": true,
+    "command": 3585
+  },
+  {
+    "category": "View | Show",
+    "name": "All",
+    "enabled": true,
+    "visible": true,
+    "command": 3507
+  },
+  {
+    "category": "View | Show",
+    "name": "None",
+    "enabled": true,
+    "visible": true,
+    "command": 3508
+  },
+  {
+    "category": "View | Show",
+    "name": "Show Extras Options",
+    "enabled": true,
+    "visible": true,
+    "command": 3510
+  },
+  {
+    "category": "View",
+    "name": "Rulers",
+    "enabled": true,
+    "visible": true,
+    "command": 1002
+  },
+  {
+    "category": "View",
+    "name": "Snap",
+    "enabled": true,
+    "visible": true,
+    "command": 3520
+  },
+  {
+    "category": "View | Snap To",
+    "name": "Guides",
+    "enabled": true,
+    "visible": true,
+    "command": 3521
+  },
+  {
+    "category": "View | Snap To",
+    "name": "Grid",
+    "enabled": false,
+    "visible": true,
+    "command": 3522
+  },
+  {
+    "category": "View | Snap To",
+    "name": "Layers",
+    "enabled": true,
+    "visible": true,
+    "command": 3530
+  },
+  {
+    "category": "View | Snap To",
+    "name": "Slices",
+    "enabled": false,
+    "visible": true,
+    "command": 3523
+  },
+  {
+    "category": "View | Snap To",
+    "name": "Document Bounds",
+    "enabled": true,
+    "visible": true,
+    "command": 3524
+  },
+  {
+    "category": "View | Snap To",
+    "name": "All",
+    "enabled": false,
+    "visible": true,
+    "command": 3527
+  },
+  {
+    "category": "View | Snap To",
+    "name": "None",
+    "enabled": true,
+    "visible": true,
+    "command": 3528
+  },
+  {
+    "category": "View",
+    "name": "Lock Guides",
+    "enabled": true,
+    "visible": true,
+    "command": 2940
+  },
+  {
+    "category": "View",
+    "name": "Clear Guides",
+    "enabled": false,
+    "visible": true,
+    "command": 2950
+  },
+  {
+    "category": "View",
+    "name": "Clear Selected Artboard Guides",
+    "enabled": false,
+    "visible": true,
+    "command": 2952
+  },
+  {
+    "category": "View",
+    "name": "Clear Canvas Guides",
+    "enabled": false,
+    "visible": true,
+    "command": 2953
+  },
+  {
+    "category": "View",
+    "name": "New Guide",
+    "enabled": true,
+    "visible": true,
+    "command": 5613
+  },
+  {
+    "category": "View",
+    "name": "New Guide Layout",
+    "enabled": true,
+    "visible": true,
+    "command": 5614
+  },
+  {
+    "category": "View",
+    "name": "New Guides From Shape",
+    "enabled": true,
+    "visible": true,
+    "command": 5615
+  },
+  {
+    "category": "View",
+    "name": "Lock Slices",
+    "enabled": true,
+    "visible": true,
+    "command": 2967
+  },
+  {
+    "category": "View",
+    "name": "Clear Slices",
+    "enabled": false,
+    "visible": true,
+    "command": 2969
+  },
+  {
+    "category": "Plugins",
+    "name": "Plugins Panel",
+    "enabled": true,
+    "visible": true,
+    "command": 1429
+  },
+  {
+    "category": "Plugins",
+    "name": "Browse Plugins",
+    "enabled": false,
+    "visible": true,
+    "command": 1430
+  },
+  {
+    "category": "Plugins",
+    "name": "Manage Plugins",
+    "enabled": false,
+    "visible": true,
+    "command": 1431
+  },
+  {
+    "category": "Plugins | ",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -20063
+  },
+  {
+    "category": "Plugins | ",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -20066
+  },
+  {
+    "category": "Plugins | ",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -20069
+  },
+  {
+    "category": "Plugins | ",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -695
+  },
+  {
+    "category": "Plugins | ",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -20027
+  },
+  {
+    "category": "Plugins | Development",
+    "name": "Create a Plugin",
+    "enabled": false,
+    "visible": true,
+    "command": -696
+  },
+  {
+    "category": "Plugins | Development",
+    "name": "Get Developer Tools",
+    "enabled": false,
+    "visible": true,
+    "command": -697
+  },
+  {
+    "category": "Plugins | Development",
+    "name": "Record Action Notifications",
+    "enabled": true,
+    "visible": true,
+    "command": -698
+  },
+  {
+    "category": "Plugins | Development",
+    "name": "Record Action Commands",
+    "enabled": true,
+    "visible": true,
+    "command": -699
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "Tile All Vertically",
+    "enabled": true,
+    "visible": true,
+    "command": 5933
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "Tile All Horizontally",
+    "enabled": true,
+    "visible": true,
+    "command": 5934
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "2-up Horizontal",
+    "enabled": true,
+    "visible": true,
+    "command": 5935
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "2-up Vertical",
+    "enabled": true,
+    "visible": true,
+    "command": 5936
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "3-up Horizontal",
+    "enabled": false,
+    "visible": true,
+    "command": 5937
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "3-up Vertical",
+    "enabled": false,
+    "visible": true,
+    "command": 5938
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "3-up Stacked",
+    "enabled": false,
+    "visible": true,
+    "command": 5939
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "4-up",
+    "enabled": false,
+    "visible": true,
+    "command": 5940
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "6-up",
+    "enabled": false,
+    "visible": true,
+    "command": 5941
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "Consolidate All to Tabs",
+    "enabled": true,
+    "visible": true,
+    "command": 5998
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "Cascade",
+    "enabled": false,
+    "visible": true,
+    "command": 5930
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "Tile",
+    "enabled": true,
+    "visible": true,
+    "command": 5931
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "Float in Window",
+    "enabled": true,
+    "visible": true,
+    "command": 5996
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "Float All in Windows",
+    "enabled": true,
+    "visible": true,
+    "command": 5997
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "Match Zoom",
+    "enabled": true,
+    "visible": true,
+    "command": 5960
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "Match Location",
+    "enabled": true,
+    "visible": true,
+    "command": 5962
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "Match Rotation",
+    "enabled": true,
+    "visible": true,
+    "command": 5963
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "Match All",
+    "enabled": true,
+    "visible": true,
+    "command": 5964
+  },
+  {
+    "category": "Window | Arrange",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": 1001
+  },
+  {
+    "category": "Window | Workspace",
+    "name": "Essentials (Default)",
+    "enabled": false,
+    "visible": true,
+    "command": 5634
+  },
+  {
+    "category": "Window | Workspace",
+    "name": "3D",
+    "enabled": false,
+    "visible": true,
+    "command": -677
+  },
+  {
+    "category": "Window | Workspace",
+    "name": "Graphic and Web",
+    "enabled": false,
+    "visible": true,
+    "command": -678
+  },
+  {
+    "category": "Window | Workspace",
+    "name": "Motion",
+    "enabled": false,
+    "visible": true,
+    "command": -679
+  },
+  {
+    "category": "Window | Workspace",
+    "name": "Painting",
+    "enabled": false,
+    "visible": true,
+    "command": -680
+  },
+  {
+    "category": "Window | Workspace",
+    "name": "Photography",
+    "enabled": false,
+    "visible": true,
+    "command": -681
+  },
+  {
+    "category": "Window | Workspace",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": 5117
+  },
+  {
+    "category": "Window | Workspace",
+    "name": "New Workspace",
+    "enabled": false,
+    "visible": true,
+    "command": 5115
+  },
+  {
+    "category": "Window | Workspace",
+    "name": "Delete Workspace",
+    "enabled": false,
+    "visible": true,
+    "command": 5116
+  },
+  {
+    "category": "Window | Workspace",
+    "name": "Keyboard Shortcuts  Menus",
+    "enabled": false,
+    "visible": true,
+    "command": 5981
+  },
+  {
+    "category": "Window | Workspace",
+    "name": "Lock Workspace",
+    "enabled": false,
+    "visible": true,
+    "command": 2939
+  },
+  {
+    "category": "Window",
+    "name": "Find Extensions on Exchange (legacy)",
+    "enabled": false,
+    "visible": true,
+    "command": 15200
+  },
+  {
+    "category": "Window",
+    "name": "Extensions (legacy)",
+    "enabled": false,
+    "visible": true,
+    "command": 1358
+  },
+  {
+    "category": "Window",
+    "name": "3D",
+    "enabled": true,
+    "visible": true,
+    "command": 6470
+  },
+  {
+    "category": "Window",
+    "name": "Actions",
+    "enabled": true,
+    "visible": true,
+    "command": 1170
+  },
+  {
+    "category": "Window",
+    "name": "Adjustments",
+    "enabled": true,
+    "visible": true,
+    "command": 6479
+  },
+  {
+    "category": "Window",
+    "name": "Brush Settings",
+    "enabled": true,
+    "visible": true,
+    "command": 1025
+  },
+  {
+    "category": "Window",
+    "name": "Brushes",
+    "enabled": true,
+    "visible": true,
+    "command": 1396
+  },
+  {
+    "category": "Window",
+    "name": "Channels",
+    "enabled": true,
+    "visible": true,
+    "command": 1021
+  },
+  {
+    "category": "Window",
+    "name": "Character",
+    "enabled": true,
+    "visible": true,
+    "command": 3300
+  },
+  {
+    "category": "Window",
+    "name": "Character Styles",
+    "enabled": true,
+    "visible": true,
+    "command": 9066
+  },
+  {
+    "category": "Window",
+    "name": "Clone Source",
+    "enabled": true,
+    "visible": true,
+    "command": 1058
+  },
+  {
+    "category": "Window",
+    "name": "Color",
+    "enabled": true,
+    "visible": true,
+    "command": 1046
+  },
+  {
+    "category": "Window",
+    "name": "Comments",
+    "enabled": false,
+    "visible": true,
+    "command": 20008
+  },
+  {
+    "category": "Window",
+    "name": "Glyphs",
+    "enabled": true,
+    "visible": true,
+    "command": 9068
+  },
+  {
+    "category": "Window",
+    "name": "Gradients",
+    "enabled": true,
+    "visible": true,
+    "command": 7763
+  },
+  {
+    "category": "Window",
+    "name": "Histogram",
+    "enabled": true,
+    "visible": true,
+    "command": 1382
+  },
+  {
+    "category": "Window",
+    "name": "History",
+    "enabled": true,
+    "visible": true,
+    "command": 1199
+  },
+  {
+    "category": "Window",
+    "name": "Info",
+    "enabled": true,
+    "visible": true,
+    "command": 1055
+  },
+  {
+    "category": "Window",
+    "name": "Layer Comps",
+    "enabled": true,
+    "visible": true,
+    "command": 1167
+  },
+  {
+    "category": "Window",
+    "name": "Layers",
+    "enabled": true,
+    "visible": true,
+    "command": 1098
+  },
+  {
+    "category": "Window",
+    "name": "Libraries",
+    "enabled": true,
+    "visible": true,
+    "command": -742
+  },
+  {
+    "category": "Window",
+    "name": "Measurement Log",
+    "enabled": true,
+    "visible": true,
+    "command": 2880
+  },
+  {
+    "category": "Window",
+    "name": "Modifier Keys",
+    "enabled": true,
+    "visible": true,
+    "command": 9069
+  },
+  {
+    "category": "Window",
+    "name": "Navigator",
+    "enabled": true,
+    "visible": true,
+    "command": 1163
+  },
+  {
+    "category": "Window",
+    "name": "Notes",
+    "enabled": true,
+    "visible": true,
+    "command": 1355
+  },
+  {
+    "category": "Window",
+    "name": "Paragraph",
+    "enabled": true,
+    "visible": true,
+    "command": 3350
+  },
+  {
+    "category": "Window",
+    "name": "Paragraph Styles",
+    "enabled": true,
+    "visible": true,
+    "command": 9067
+  },
+  {
+    "category": "Window",
+    "name": "Paths",
+    "enabled": true,
+    "visible": true,
+    "command": 1065
+  },
+  {
+    "category": "Window",
+    "name": "Patterns",
+    "enabled": true,
+    "visible": true,
+    "command": 7767
+  },
+  {
+    "category": "Window",
+    "name": "Properties",
+    "enabled": true,
+    "visible": true,
+    "command": 6478
+  },
+  {
+    "category": "Window",
+    "name": "Shapes",
+    "enabled": true,
+    "visible": true,
+    "command": 7772
+  },
+  {
+    "category": "Window",
+    "name": "Styles",
+    "enabled": true,
+    "visible": true,
+    "command": 3187
+  },
+  {
+    "category": "Window",
+    "name": "Swatches",
+    "enabled": true,
+    "visible": true,
+    "command": 1119
+  },
+  {
+    "category": "Window",
+    "name": "Timeline",
+    "enabled": true,
+    "visible": true,
+    "command": 1188
+  },
+  {
+    "category": "Window",
+    "name": "Tool Presets",
+    "enabled": true,
+    "visible": true,
+    "command": 4210
+  },
+  {
+    "category": "Window",
+    "name": "Version History",
+    "enabled": false,
+    "visible": true,
+    "command": 20007
+  },
+  {
+    "category": "Window",
+    "name": "Options",
+    "enabled": true,
+    "visible": true,
+    "command": 1111
+  },
+  {
+    "category": "Window",
+    "name": "Tools",
+    "enabled": true,
+    "visible": true,
+    "command": 1194
+  },
+  {
+    "category": "Window",
+    "name": "",
+    "enabled": true,
+    "visible": true,
+    "command": -821
+  },
+  {
+    "category": "Window",
+    "name": "",
+    "enabled": false,
+    "visible": true,
+    "command": -1377
+  }
+]
