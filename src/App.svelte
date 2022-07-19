@@ -74,33 +74,94 @@
       });   
   }
 
-  let lastMessage;
-  function callMessageHandler(params){
-    lastMessage = params;
-    switch(params.method){
-      case 'command': {
-        performMenuCommand(params.body);
-        break;
-      }
-      case 'tool': {
-        setTool(params.body);
-        break;
-      }
-      case 'brushTipShape': {
-        changeBrushTipShape(params.body);
-        break;
-      }
-      case 'brushShapeDynamics': {
-        changeBrushShapeDynamics(params.body);
-        break;
-      }
-      case 'paintbrushTool': {
-        changePaintbrushTool(params.body);
-      }
-      default: {
+  
+  let newStuffToDo = [];
 
-      }
+  let hasValueChanged;
+  let latestValue = {method: '', body: {}};
+  let isBatchPlayBusy = false;
+
+
+  function processUpdates(opts, value){
+
+    if(isBatchPlayBusy == false ){
+      isBatchPlayBusy = true
+      hasValueChanged = false;
+      changeBrushTipShape(opts, value).then(function(){
+        isBatchPlayBusy = false;
+        if(hasValueChanged == true){
+          hasValueChanged = false;
+          processUpdates(opts, latestValue.body);
+        } else {
+          console.log('done', value)
+        }
+      })    
     }
+    
+  }
+
+
+  let toolOptions = {};
+  async function callMessageHandler(params){
+
+    // this is only recalculated if the latestValue body differs from next message body
+    // TODO... check for different methods as well!
+    if(!Object.keys(latestValue.body).includes(...Object.keys(params.body))){
+      toolOptions = await getPropety("currentToolOptions", appRef).then(res => res.currentToolOptions)
+    }
+
+    latestValue = params;
+    hasValueChanged = true;
+
+    processUpdates(toolOptions, latestValue.body);
+
+  }
+
+  async function changeBrushTipShape(toolOptions,brushParams){
+
+    console.log('bruh',brushParams)
+
+    const brush = toolOptions.brush;
+
+    for (const param in brushParams) {
+      brush[param]._value = brushParams[param];
+    }
+
+    const actionJSON = [{
+      _obj: "set",
+      _target: {
+        _ref: "brush",
+        _enum: "ordinal",
+        _value: "targetEnum"
+      },
+      to: {
+        _obj: "brush",
+        ...brush
+      },
+      _options: {
+        dialogOptions: "dontDisplay" // silent
+      },
+    }];
+
+    const batchPlayOptions = {
+      synchronousExecution: false,
+    }
+
+    console.log('EHHEE')
+    
+    const result = await batchPlayInModal(actionJSON, batchPlayOptions).then(res => {
+
+      
+        return 'done';
+      })
+      .catch(err => {
+        return 'err'+err
+      })
+
+      console.log('DONE', result)
+
+    return result;
+
   }
 
   let webSocketClient = undefined;
@@ -191,14 +252,17 @@
       }
 
       //uxpLog(1, 'batch-play-in-progress');
-      const result = await batchPlayInModal(actionJSON, batchPlayOptions).then(res => {
+       await batchPlayInModal(actionJSON, batchPlayOptions).then(res => {
          //uxpLog(2,res);
+          
           return res;
         })
         .catch(err => {
           //uxpLog(0, err.message);
           return err
         });;
+
+        
 
     }
   }
@@ -208,7 +272,6 @@
     const { currentToolOptions } = await getPropety("currentToolOptions", appRef)
 
     // runs only, if current tool option has brush property
-    console.log('brush params...',brushParams)
 
     if(currentToolOptions){
 
@@ -244,55 +307,7 @@
 
 }
 
-  async function changeBrushTipShape(brushParams){
-
-    const { currentToolOptions } = await getPropety("currentToolOptions", appRef)
-
-    // runs only, if current tool option has brush property
-    if(currentToolOptions.brush){
-
-      const brush = currentToolOptions.brush;
-
-      for (const param in brushParams) {
-        brush[param]._value = brushParams[param];
-      }
-
-      const actionJSON = [{
-        _obj: "set",
-        _target: {
-          _ref: "brush",
-          _enum: "ordinal",
-          _value: "targetEnum"
-        },
-        to: {
-          _obj: "brush",
-          ...brush
-        },
-        _options: {
-          dialogOptions: "dontDisplay" // silent
-        },
-      }];
-
-      
-      const batchPlayOptions = {
-        synchronousExecution: false,
-        
-      }
-
-      //uxpLog(1, 'batch-play-in-progress');
-      const result = await batchPlayInModal(actionJSON, batchPlayOptions).then(res => {
-          //uxpLog(2,res);
-          return res;
-        })
-        .catch(err => {
-          //uxpLog(0, err.message);
-          return err
-        });;
-
-
-    }
-
-  }
+  
 
   async function getPropety(propertyName, ref = appRef){
     // example: panelList, menuBarInfo
@@ -306,14 +321,14 @@
       synchronousExecution: false
     }
     
-    uxpLog(1, 'batch-play-in-progress');
+    //uxpLog(1, 'batch-play-in-progress');
     const result = await batchPlayInModal(actionJSON, batchPlayOptions)
       .then(res => {
-        uxpLog(2,res);
+        //uxpLog(2,res);
         return res;
       })
       .catch(err => {
-        uxpLog(0, err.message);
+        //uxpLog(0, err.message);
         return err
       });
 
@@ -400,7 +415,7 @@
     <div class="text-yellow-500">Connection with Grid Editor is lost.</div>
   {/if}
 
-  <div>{new Date().getHours() + ':' + new Date().getMinutes() + ':' + new Date().getSeconds() + ' ' + JSON.stringify(lastMessage)}</div>
+  <div>{new Date().getHours() + ':' + new Date().getMinutes() + ':' + new Date().getSeconds() + ' ' + JSON.stringify(latestValue)}</div>
 </div>
 
 
